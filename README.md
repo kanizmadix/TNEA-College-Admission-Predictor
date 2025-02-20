@@ -78,4 +78,4 @@ The dataset consists of **TNEA historical cutoff marks** for various engineering
 This project is open-source under the **MIT License**.
 
 ---
-✨ Developed by **[Your Name]** | Contact: your.email@example.com
+✨ Developed by **[Kanishk S]** | Contact: kanishk0070@gmail.com
