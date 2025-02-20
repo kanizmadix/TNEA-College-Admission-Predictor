@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flowchart</title>
+    <style>
+        .flowchart {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+        .box {
+            border: 2px solid #333;
+            border-radius: 10px;
+            padding: 10px 20px;
+            text-align: center;
+            margin: 10px;
+            width: 280px;
+            color: white;
+        }
+        .start { background-color: #28a745; }
+        .process { background-color: #007bff; }
+        .decision { background-color: #ffc107; }
+        .end { background-color: #dc3545; }
+        .arrow {
+            margin: -10px 0;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flowchart">
+        <div class="box start">User Enters Marks</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box process">Clicks "Calculate Cutoff" to See Cutoff Mark</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box process">Selects a Filter Mode</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box process">Clicks "Get Predictions" (With Loading Indicators)</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box decision">Views Predictions with Actionable Messaging</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box end">End of Process</div>
+    </div>
+</body>
+</html>

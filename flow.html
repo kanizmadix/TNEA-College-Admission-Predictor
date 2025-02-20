@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flowchart</title>
+    <style>
+        .flowchart {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+        .box {
+            border: 2px solid #333;
+            border-radius: 10px;
+            padding: 10px 20px;
+            text-align: center;
+            margin: 10px;
+            background-color: #f9f9f9;
+            width: 250px;
+        }
+        .arrow {
+            margin: -10px 0;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flowchart">
+        <div class="box">Start: Open Calculator</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box">Select College Name and Branch Name</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box">Enter Marks for Cutoff Calculation</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box">Compute Cutoff</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box">Apply Filters (Highest Cutoff/Category-Based)</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box">Get Prediction (Colleges, Branches, Seat Availability)</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box">Decision Point</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box">Satisfied? <br> If Yes: Exit the Model <br> If No: Adjust Filters</div>
+        <div class="arrow">&#x2193;</div>
+
+        <div class="box">End</div>
+    </div>
+</body>
+</html>

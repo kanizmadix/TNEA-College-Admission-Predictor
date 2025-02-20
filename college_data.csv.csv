@@ -1,0 +1,1699 @@
+COLLEGE CODE,COLLEGE NAME,BRANCH CODE,RANCH NAME,OC,BC,BCM,MBC,SC,SCA,ST
+1,"University Departments of Anna University
+Chennai - CEG Campus  Sardar Patel Road Guindy  Chennai 600 025",BY,BIO MEDICAL ENGINEERING (SS),,161,,,,,
+1,"University Departments of Anna University
+Chennai - CEG Campus  Sardar Patel Road Guindy  Chennai 600 025",CE,CIVIL  ENGINEERING,,,,151.5,,,
+1,"University Departments of Anna University
+Chennai - CEG Campus  Sardar Patel Road Guindy  Chennai 600 025",CM,COMPUTER SCIENCE AND ENGINEERING (SS),193.5,185.5,,183.5,,,
+1,"University Departments of Anna University Chennai - CEG Campus  Sardar Patel Road
+Guindy  Chennai 600 025",CS,COMPUTER SCIENCE AND ENGINEERING,,187.5,,,,,
+1,"University Departments of Anna University Chennai - CEG Campus  Sardar Patel Road
+Guindy  Chennai 600 025",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",191.5,,,,,,
+1,"University Departments of Anna University Chennai - CEG Campus  Sardar Patel Road
+Guindy  Chennai 600 025",EM,"ELECTRONICS AND COMMUNICATION
+ENGINEERING (SS)",,,,,151.5,,
+1,"University Departments of Anna University
+Chennai - CEG Campus  Sardar Patel Road Guindy  Chennai 600 025",GI,GEO INFORMATICS,172,,,,,,
+1,"University Departments of Anna University Chennai - CEG Campus  Sardar Patel Road
+Guindy  Chennai 600 025",IE,INDUSTRIAL ENGINEERING,,,,,137,,
+1,"University Departments of Anna University Chennai - CEG Campus  Sardar Patel Road
+Guindy  Chennai 600 025",IM,INFORMATION TECHNOLOGY (SS),185,,,164.5,,,
+1,"University Departments of Anna University Chennai - CEG Campus  Sardar Patel Road
+Guindy  Chennai 600 025",MA,MATERIAL SCIENCE AND ENGINEERING (SS),,,144,,,,
+1,"University Departments of Anna University
+Chennai - CEG Campus  Sardar Patel Road Guindy  Chennai 600 025",ME,MECHANICAL ENGINEERING,197.5,,,,,,
+1,"University Departments of Anna University
+Chennai - CEG Campus  Sardar Patel Road Guindy  Chennai 600 025",MI,MINING ENGINEERING,157.5,,,,,,
+1,"University Departments of Anna University
+Chennai - CEG Campus  Sardar Patel Road Guindy  Chennai 600 025",MN,MANUFACTURING ENGINEERING,171.5,,,,,,
+1,"University Departments of Anna University Chennai - CEG Campus  Sardar Patel Road
+Guindy  Chennai 600 025",XC,CIVIL ENGINEERING (TAMIL MEDIUM),,190.5,,,,,
+1,"University Departments of Anna University Chennai - CEG Campus  Sardar Patel Road
+Guindy  Chennai 600 025",XM,MECHANICAL ENGINEERING (TAMIL MEDIUM),,180,,,,,
+1013,University College of Engineering  Villupuram Kakuppam  Villupuram District 605103,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,140,,,,,
+1013,University College of Engineering  Villupuram Kakuppam  Villupuram District 605103,IT,INFORMATION TECHNOLOGY,,,124.5,,,,
+1013,University College of Engineering  Villupuram Kakuppam  Villupuram District 605103,ME,MECHANICAL ENGINEERING,,,,,148.5,,
+1013,University College of Engineering  Villupuram Kakuppam  Villupuram District 605103,XM,MECHANICAL ENGINEERING (TAMIL MEDIUM),118.5,,,,,,
+1014,"University College of Engineering Tindivanam  Melpakkam  Tindivanam
+Villupuram District 604001",IT,INFORMATION TECHNOLOGY,137.5,,,,,,
+1015,"University College of Engineering  Arni  Arni
+to Devikapuram Road  Thatchur  Arni Thiruvannamalai District 632326",CS,COMPUTER SCIENCE AND ENGINEERING,132,,,,,,
+1015,"University College of Engineering  Arni  Arni
+to Devikapuram Road  Thatchur  Arni Thiruvannamalai District 632326",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,146.5,,,,,
+1015,"University College of Engineering  Arni  Arni
+to Devikapuram Road  Thatchur  Arni Thiruvannamalai District 632326",ME,MECHANICAL ENGINEERING,,,,,131.5,,
+1015,"University College of Engineering  Arni  Arni to Devikapuram Road  Thatchur  Arni
+Thiruvannamalai District 632326",XM,MECHANICAL ENGINEERING (TAMIL MEDIUM),,,,133,,,
+1026,"University College of Engineering Kancheepuram  Ponnerikarai Campus  NH4 Chennai-Bangalore Highway  Karaipettai Village & Post  Kancheepuram District
+631552",CS,COMPUTER SCIENCE AND ENGINEERING,136,,,,,,
+1026,"University College of Engineering Kancheepuram  Ponnerikarai Campus  NH4 Chennai-Bangalore Highway  Karaipettai Village & Post  Kancheepuram District
+631552",ME,MECHANICAL ENGINEERING,,,,131,,,
+1110,"Prathyusha Engineering college
+(Autonomous)  Aranvoyalkuppam Thiruvallur District 602025",BT,BIO TECHNOLOGY,,,,,130,,
+1110,"Prathyusha Engineering college (Autonomous)  Aranvoyalkuppam
+Thiruvallur District 602025",CS,COMPUTER SCIENCE AND ENGINEERING,139.5,,,,,,
+1112,"R M D Engineering College (Autonomous) Kavaraipettai  Gummidipoondi  Thiruvallur
+District 601206",CS,COMPUTER SCIENCE AND ENGINEERING,146.5,,,,,,
+1113,"R M K Engineering College (Autonomous)
+Kavaraipettai  Gummidipoondi  Thiruvallur District 601206",CS,COMPUTER SCIENCE AND ENGINEERING,,,,155,,,
+1114,"S A Engineering College (Autonomous)
+Thiruverkadu  Chennai 600077",AD,"ARTIFICIAL INTELLIGENCE AND
+DATA SCIENCE",,,,132.5,,,
+1114,"S A Engineering College (Autonomous)
+Thiruverkadu  Chennai 600077",CS,"COMPUTER SCIENCE AND
+ENGINEERING",,154.5,,,,,
+1116,"Sri Venkateswara College of Engineering and Technology  Thirupachur  Thiruvallur District
+631203",CS,COMPUTER SCIENCE AND ENGINEERING,,129.5,,,,,
+1118,"Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College (Autonomous)  Avadi-Alamathi Road
+Chennai 600 062",ME,MECHANICAL ENGINEERING,,,,,144.5,,
+1122,"Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (Autonomous)  Avadi-Alamathi Road
+Chennai 600 062",CS,COMPUTER SCIENCE AND ENGINEERING,,129,,,,,
+1123,"Gojan School of Business and Technology
+Alamathi  Chennai 600062",MU,"MECHANICAL AND
+AUTOMATION ENGINEERING",,135.5,,,,,
+1125,"PMR Engineering College Adayalampattu
+Chennai-600095",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,131,,,,,
+1128,R M K College of Engineering and Technology (Autonomous)  Puduvoyal  Gummidipoondi Taluk  Thiruvallur District 601206,CS,COMPUTER SCIENCE AND ENGINEERING,,160,,,,,
+1128,R M K College of Engineering and Technology (Autonomous)  Puduvoyal  Gummidipoondi Taluk  Thiruvallur District 601206,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,121,,,,,
+1133,"Annai Veilankannis College of Engineering
+Gandhi Road  Nedungundram  Chennai 600048",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",115.5,,,,,,
+1137,Annai Mira College of Engineering and Technology  Arcot Road  Arappakkam Village Walaja Taulk  Ranipet District 632 517,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,149.5,,,,,
+1149,"St. Joseph's Institute of Technology (Autonomous)  Jeppiaar Nagar  Old Mahabalipuram Road (OMR)  Chennai
+600119",CS,COMPUTER SCIENCE AND ENGINEERING,152.5,,,,,,
+1149,"St. Joseph's Institute of Technology (Autonomous)  Jeppiaar Nagar  Old Mahabalipuram Road (OMR)  Chennai
+600119",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,144,,,,,
+1202,"D M I College of Engineering  Palanchoor
+Nazrethpet  Chennai 602103",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,,,122.5,,,
+1207,"Kings Engineering College  Sriperumpudur
+Taluk  Kancheepuram District 602105",CS,"COMPUTER SCIENCE AND
+ENGINEERING",145.5,,,,,,
+1210,Panimalar Engineering College (Autonomous) Nazarethpet  Poonamallee  Chennai 602123,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,126.5,,,,,,
+1210,Panimalar Engineering College (Autonomous) Nazarethpet  Poonamallee  Chennai 602123,CS,COMPUTER SCIENCE AND ENGINEERING,118,,,,,,
+1210,Panimalar Engineering College (Autonomous) Nazarethpet  Poonamallee  Chennai 602123,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,146,,,
+1210,Panimalar Engineering College (Autonomous) Nazarethpet  Poonamallee  Chennai 602123,IT,INFORMATION TECHNOLOGY,118,,,,,,
+1210,Panimalar Engineering College (Autonomous) Nazarethpet  Poonamallee  Chennai 602123,ME,MECHANICAL ENGINEERING,,,,139,,,
+1211,Rajalakshmi Engineering College (Autonomous)  Thandalam  Sriperumpudur Taluk  Kancheepuram District 602105,AL,Artificial Intelligence and Machine Learning,130,,,,,,
+1211,Rajalakshmi Engineering College (Autonomous)  Thandalam  Sriperumpudur Taluk  Kancheepuram District 602105,BT,BIO TECHNOLOGY,,,,122.5,,,
+1211,Rajalakshmi Engineering College (Autonomous)  Thandalam  Sriperumpudur Taluk  Kancheepuram District 602105,CS,COMPUTER SCIENCE AND ENGINEERING,,160,,,,,
+1211,Rajalakshmi Engineering College (Autonomous)  Thandalam  Sriperumpudur Taluk  Kancheepuram District 602105,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,129.5,,,,,
+1211,Rajalakshmi Engineering College (Autonomous)  Thandalam  Sriperumpudur Taluk  Kancheepuram District 602105,IT,INFORMATION TECHNOLOGY,150.5,,,140,,,
+1211,Rajalakshmi Engineering College (Autonomous)  Thandalam  Sriperumpudur Taluk  Kancheepuram District 602105,ME,MECHANICAL ENGINEERING,,,118,,,,
+1211,Rajalakshmi Engineering College (Autonomous)  Thandalam  Sriperumpudur Taluk  Kancheepuram District 602105,SC,Computer Science and Engineering (Cyber Security),130,,,,,,
+1212,"Rajiv Gandhi College of Engineering  Nemili
+Sriperumpudur Taluk  Kancheepuram District 602105",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",110.5,,,,,,
+1212,"Rajiv Gandhi College of Engineering  Nemili
+Sriperumpudur Taluk  Kancheepuram District 602105",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,,85,,
+1216,Saveetha Engineering College (Autonomous) Thandalam  Sriperumpudur Taluk Kancheepuram District 602105,ME,MECHANICAL ENGINEERING,150.5,,,,,,
+1219,"Sri Venkateswara College of Engineering (Autonomous)  Post Bag No.1  Chennai- Bengaluru High Road  Pennalur Irungattukottai S.O.  Sriperumbudur Taluk
+Kancheepuram District 602105",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,165,,,,,,
+1219,"Sri Venkateswara College of Engineering (Autonomous)  Post Bag No.1  Chennai- Bengaluru High Road  Pennalur Irungattukottai S.O.  Sriperumbudur Taluk
+Kancheepuram District 602105",ME,MECHANICAL ENGINEERING,138,,,,,,
+1219,"Sri Venkateswara College of Engineering (Autonomous)  Post Bag No.1  Chennai- Bengaluru High Road  Pennalur Irungattukottai S.O.  Sriperumbudur Taluk
+Kancheepuram District 602105",MU,MECHANICAL AND AUTOMATION ENGINEERING,,115,,,,,
+1221,Jaya College of Engineering and Technology Parivakkam  Poonamallee  Chennai 600056,ME,MECHANICAL ENGINEERING,,121,,,,,
+1222,"P B College of Engineering  Irungkattukottai Sriperumpudur Taluk  Kancheepuram District
+602117",AU,AUTOMOBILE ENGINEERING,,113,,,,,
+1222,"P B College of Engineering  Irungkattukottai
+Sriperumpudur Taluk  Kancheepuram District 602117",CS,COMPUTER SCIENCE AND ENGINEERING,,121,,,,,
+1225,"Loyola Institute of Technology
+Mevaloorkuppam  B Village  Palanchoor Nazarethpet Post  Chennai 600123",CS,COMPUTER SCIENCE AND ENGINEERING,118.5,,,,,,
+1226,P T Lee Chengalvaraya Naicker College of Engineering and Technology  Oovery  Veliyur Post  Kancheepuram District 631 502,CS,COMPUTER SCIENCE AND ENGINEERING,143.5,,,,,,
+1226,P T Lee Chengalvaraya Naicker College of Engineering and Technology  Oovery  Veliyur Post  Kancheepuram District 631 502,IT,INFORMATION TECHNOLOGY,,127.5,,,,,
+1226,P T Lee Chengalvaraya Naicker College of Engineering and Technology  Oovery  Veliyur Post  Kancheepuram District 631 502,ME,MECHANICAL ENGINEERING,,144,,,,,
+1230,"Apollo Engineering College Mevaloorkuppam  Valarpuram Post Sriperumpudur  Kancheepuram District
+602105",CS,COMPUTER SCIENCE AND ENGINEERING,118.5,,,,,,
+1237,"Velammal Institute of Technology  Chennai-
+Kolkatta Highway  Panchetti Village  Ponneri Taluk  Thiruvallur District 601204",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,172.5,,,,,,
+1238,"G R T Institute of Engineering and Technology  GRT Mahalakshmi Nagar Chennai-Tirupathi Highway  Tiruttani Taluk
+Thiruvallur District 631209",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,110.5,,,
+1241,"T J S Engineering College  Peruvoyal  Near Kavaraipettai  Gummidipoondi Taluk
+Thiruvallur District 601206",CS,COMPUTER SCIENCE AND ENGINEERING,164.5,,,,,,
+1243,"Madha Institute of Engineering and Technology  Erandamkattalai Village Sadhananthapuram  Thandalam Post
+Chennai  602101",ME,MECHANICAL ENGINEERING,,136,,,,,
+1304,Easwari Engineering College (Autonomous) Ramapuram  Chennai 600089,CE,CIVIL  ENGINEERING,,158,,,,,
+1304,Easwari Engineering College (Autonomous) Ramapuram  Chennai 600089,IT,INFORMATION TECHNOLOGY,,164,,,,,
+1304,Easwari Engineering College (Autonomous) Ramapuram  Chennai 600089,RM,ROBOTICS AND AUTOMATION,146,,,,,,
+1309,"Meenakshi Sundararajan Engineering College
+Kodambakkam  Chennai 600024",CE,CIVIL  ENGINEERING,,,,,120,,
+1309,Meenakshi Sundararajan Engineering College Kodambakkam  Chennai 600024,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",166,,,,,,
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous)  Kalavakkam  Old Mahabalipuram Road (OMR)  Chengalpattu
+District 603110",CE,CIVIL  ENGINEERING,,163.5,,,,,
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous)  Kalavakkam  Old Mahabalipuram Road (OMR)  Chengalpattu
+District 603110",CH,CHEMICAL  ENGINEERING,,,,131,,,
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous)  Kalavakkam  Old Mahabalipuram Road (OMR)  Chengalpattu
+District 603110",CJ,M.Tech. Computer Science and Engineering (Integrated 5 years),,174,,,,,
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous)  Kalavakkam  Old Mahabalipuram Road (OMR)  Chengalpattu
+District 603110",CS,COMPUTER SCIENCE AND ENGINEERING,199,,,,,,
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous)  Kalavakkam  Old Mahabalipuram Road (OMR)  Chengalpattu
+District 603110",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,172.5,,,,,,
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous)  Kalavakkam  Old Mahabalipuram Road (OMR)  Chengalpattu
+District 603110",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,175.5,,,,,,
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous)  Kalavakkam  Old Mahabalipuram Road (OMR)  Chengalpattu
+District 603110",IT,INFORMATION TECHNOLOGY,,,,157.5,145,,
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous)  Kalavakkam  Old Mahabalipuram Road (OMR)  Chengalpattu
+District 603110",ME,MECHANICAL ENGINEERING,146,,,,,,
+1317,"St. Joseph's College of Engineering (Autonomous)  Old Mahabalipuram Road
+(OMR)  Chennai 600 119",ME,MECHANICAL ENGINEERING,131.5,,,131,,,
+1321,Central Institute of Petrochemicals Engineering and Technology (Formerly Central Institute of Plastics Engineering and Technology) (CIPET)  Guindy  Chennai 600032,MN,MANUFACTURING ENGINEERING,,163.5,,,,,
+1321,Central Institute of Petrochemicals Engineering and Technology (Formerly Central Institute of Plastics Engineering and Technology) (CIPET)  Guindy  Chennai 600032,PA,PLASTIC TECHNOLOGY,150.5,,,,,,
+1325,"St. Joseph College of Engineering  Trinity Campus  Nemili  Sriperumpudur Taluk
+Kancheepuram District 602105",CS,COMPUTER SCIENCE AND ENGINEERING,,,,,160.5,,
+1325,"St. Joseph College of Engineering  Trinity
+Campus  Nemili  Sriperumpudur Taluk Kancheepuram District 602105",ME,MECHANICAL ENGINEERING,175.5,,,,,,
+1398,Chennai Institute of Technology and Applied Research    Sarathy Nagar  Puthuper Village Kundrathur   Chennai 600069,CS,COMPUTER SCIENCE AND ENGINEERING,124.5,,,,,,
+1398,Chennai Institute of Technology and Applied Research    Sarathy Nagar  Puthuper Village Kundrathur   Chennai 600069,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,,114,,
+1398,Chennai Institute of Technology and Applied Research    Sarathy Nagar  Puthuper Village Kundrathur   Chennai 600069,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,116.5,,,,
+1399,"Chennai Institute of Technology (Autonomous) Puduper Village Nandambakkam Post  Kundrathur  Chennai
+600069",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,,,127,,,
+1399,"Chennai Institute of Technology (Autonomous) Puduper Village Nandambakkam Post  Kundrathur  Chennai
+600069",AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",,133,,,,,
+1399,"Chennai Institute of Technology (Autonomous) Puduper Village Nandambakkam Post  Kundrathur  Chennai
+600069",CS,COMPUTER SCIENCE AND ENGINEERING,,152,,150,,,
+1399,"Chennai Institute of Technology (Autonomous) Puduper Village Nandambakkam Post  Kundrathur  Chennai
+600069",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,146,,,,,
+1399,"Chennai Institute of Technology (Autonomous) Puduper Village Nandambakkam Post  Kundrathur  Chennai
+600069",IT,INFORMATION TECHNOLOGY,,,,,122.5,,
+1399,"Chennai Institute of Technology (Autonomous) Puduper Village Nandambakkam Post  Kundrathur  Chennai
+600069",ME,MECHANICAL ENGINEERING,163.5,,,,,,
+1399,"Chennai Institute of Technology (Autonomous) Puduper Village Nandambakkam Post  Kundrathur  Chennai
+600069",MZ,Mechatronics Engineering,139.5,,,,,,
+1401,"Adhiparasakthi Engineering College Melmaruvathur  Chengalpattu District
+603319",CS,COMPUTER SCIENCE AND ENGINEERING,,,,132,,,
+1401,"Adhiparasakthi Engineering College Melmaruvathur  Chengalpattu District
+603319",ME,MECHANICAL ENGINEERING,120.5,,,,,,
+1408,"I F E T College of Engineering  (Autonomous)
+Gangarampalayam  Villupuram District 605108",CS,COMPUTER SCIENCE AND ENGINEERING,,,,,150,,
+1412,Mailam Engineering College  Mailam Villupuram District 604304,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",137.5,,,,,,
+1414,"Prince Shri Venkateshwara  Padmavathy
+Engineering College  (Autonomous) Ponmar Chennai 600048",CS,COMPUTER SCIENCE AND ENGINEERING,,,,176.5,,,
+1414,"Prince Shri Venkateshwara  Padmavathy
+Engineering College  (Autonomous) Ponmar Chennai 600048",IT,INFORMATION TECHNOLOGY,147.5,,,,,,
+1419,Sri Sai Ram Enginering College (Autonomous) West Tambaram  Chennai 600044,MU,MECHANICAL AND AUTOMATION ENGINEERING,127.5,,,,,,
+1421,V R S College of Engineering and Technology Arasur  Villupuram District 607107,CS,COMPUTER SCIENCE AND ENGINEERING,116.5,,,,,,
+1421,V R S College of Engineering and Technology Arasur  Villupuram District 607107,ME,MECHANICAL ENGINEERING,131,,,,,,
+1422,"SRM Valliammai Engineering College (Autonomous)  Kattankulathur  Chennai
+603203",CS,COMPUTER SCIENCE AND ENGINEERING,,143,,125,,,
+1422,"SRM Valliammai Engineering College
+(Autonomous)  Kattankulathur  Chennai 603203",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,163.5,,,,,
+1422,"SRM Valliammai Engineering College (Autonomous)  Kattankulathur  Chennai
+603203",EI,"ELECTRONICS AND INSTRUMENTATION
+ENGINEERING",124,,,,,,
+1430,"Maha Bharathi Engineering College  A Vasudevanur  Chinnasalem  Kallakurichi
+District 606201",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,138,,,
+1430,"Maha Bharathi Engineering College  A Vasudevanur  Chinnasalem  Kallakurichi
+District 606201",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,127,,,,,,
+1437,"Rrase College of Engineering  Padappai
+Kancheepuram  601301",CS,"COMPUTER SCIENCE AND
+ENGINEERING",128,,,,,,
+1437,Rrase College of Engineering  Padappai Kancheepuram  601301,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",131,,,,,,
+1437,"Rrase College of Engineering  Padappai
+Kancheepuram  601301",IT,INFORMATION TECHNOLOGY,,,,109.5,,,
+1441,"A K T Memorial College of Engineering and Technology  Neelamangalam Village
+Kallakurichi District 606202",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,106,,,,,
+1441,"A K T Memorial College of Engineering and
+Technology  Neelamangalam Village Kallakurichi District 606202",IT,INFORMATION TECHNOLOGY,130,,,,,,
+1441,"A K T Memorial College of Engineering and
+Technology  Neelamangalam Village Kallakurichi District 606202",ME,MECHANICAL ENGINEERING,112.5,,,,,,
+1442,Prince Dr. K Vasudevan College of Engineering and Technology  Medavakkam- Mambakkam Road  Ponmar  Chennai 600127,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,166,,,,,,
+1442,Prince Dr. K Vasudevan College of Engineering and Technology  Medavakkam- Mambakkam Road  Ponmar  Chennai 600127,SC,Computer Science and Engineering (Cyber Security),,113,,,,,
+1450,"Loyola ICAM College of Engineering and
+Technology  Loyola College Campus Nungambakkam  Chennai 600034",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,,133.5,,
+1450,"Loyola ICAM College of Engineering and Technology  Loyola College Campus
+Nungambakkam  Chennai 600034",IT,INFORMATION TECHNOLOGY,162.5,,,,,,
+1450,"Loyola ICAM College of Engineering and Technology  Loyola College Campus
+Nungambakkam  Chennai 600034",ME,MECHANICAL ENGINEERING,,,,160.5,,,
+1507,Ganadipathy Tulsiï¿½s Jain Engineering College  Kaniyambadi  Vellore District 632102,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",122.5,,,,,,
+1509,"Meenakshi College of Engineering
+Vembuliamman Koil Street  K K Nagar (West) Chennai 600078",CS,COMPUTER SCIENCE AND ENGINEERING,,,,158.5,,,
+1510,"Priyadarshini Engineering College
+Vaniyambadi Post  Thiruppattur District 635751",CE,CIVIL  ENGINEERING,130.5,,,,,,
+1510,"Priyadarshini Engineering College Vaniyambadi Post  Thiruppattur District
+635751",CS,COMPUTER SCIENCE AND ENGINEERING,156.5,,,,,,
+1510,"Priyadarshini Engineering College Vaniyambadi Post  Thiruppattur District
+635751",IT,INFORMATION TECHNOLOGY,,,,136.5,,,
+1510,"Priyadarshini Engineering College Vaniyambadi Post  Thiruppattur District
+635751",ME,MECHANICAL ENGINEERING,,,,,129,,
+1516,"Thanthai Periyar Government Institute of
+Technology  Bagayam  Vellore District 632002",CE,CIVIL  ENGINEERING,,,,,139.5,,
+1516,"Thanthai Periyar Government Institute of Technology  Bagayam  Vellore District
+632002",CS,COMPUTER SCIENCE AND ENGINEERING,,,,155.5,,,
+1516,"Thanthai Periyar Government Institute of Technology  Bagayam  Vellore District
+632002",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",152.5,147.5,,,,,
+1516,"Thanthai Periyar Government Institute of Technology  Bagayam  Vellore District
+632002",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,159,,,,,,
+1516,"Thanthai Periyar Government Institute of
+Technology  Bagayam  Vellore District 632002",ME,MECHANICAL ENGINEERING,,152,,147,,,
+1518,"Thiruvalluvar College of Engineering and
+Technology  Vandavasi  Thiruvannamalai District 604505",CS,COMPUTER SCIENCE AND ENGINEERING,145.5,,,,,,
+1518,"Thiruvalluvar College of Engineering and
+Technology  Vandavasi  Thiruvannamalai District 604505",ME,MECHANICAL ENGINEERING,,,,117,,,
+1519,"Bharathidasan Engineering College Nattrampalli Post  Thiruppathur District
+635854",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,141,,,
+1519,"Bharathidasan Engineering College Nattrampalli Post  Thiruppathur District
+635854",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,138.5,,,,,,
+1519,"Bharathidasan Engineering College Nattrampalli Post  Thiruppathur District
+635854",IT,INFORMATION TECHNOLOGY,,,,,106.5,,
+1519,"Bharathidasan Engineering College
+Nattrampalli Post  Thiruppathur District 635854",ME,MECHANICAL ENGINEERING,131.5,,,,,,
+1523,"Global Institute of Engineering and Technology  Bangalore-Chennai Highway Melvisharam  Walajah Taluk  Ranipet District
+632506",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,107,,,
+1525,"Podhigai College of Engineering and Technology  Vinayakapuram  Adiyur Post
+Tirupattur District 635601",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,153.5,,,,,,
+1526,"Sri Krishna College of Engineering  Tiruttani High Road  Arakkonam  Ranipet District
+631003",ME,MECHANICAL ENGINEERING,,,,152.5,,,
+1529,"Oxford College of Engineering  Venmani
+Village  Karaipoondi Post  Polur Taluk Thiruvannamalai District 606803",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,132.83,,,
+2,"University Departments of Anna University
+Chennai - ACT Campus  Sardar Patel Road Guindy  Chennai 600 025",CH,CHEMICAL  ENGINEERING,,,,141.5,,,
+2,"University Departments of Anna University
+Chennai - ACT Campus  Sardar Patel Road Guindy  Chennai 600 025",CL,CHEMICAL  ENGINEERING (SS),,145,,,,,
+2,"University Departments of Anna University Chennai - ACT Campus  Sardar Patel Road
+Guindy  Chennai 600 025",CR,CERAMIC TECHNOLOGY (SS),,,,,130.5,,
+2,"University Departments of Anna University Chennai - ACT Campus  Sardar Patel Road
+Guindy  Chennai 600 025",FS,FOOD TECHNOLOGY (SS),146,,,,,,
+2,"University Departments of Anna University Chennai - ACT Campus  Sardar Patel Road
+Guindy  Chennai 600 025",LE,LEATHER TECHNOLOGY,,,,156.5,,,
+2,"University Departments of Anna University
+Chennai - ACT Campus  Sardar Patel Road Guindy  Chennai 600 025",PP,PETROLEUM ENGINEERING AND TECHNOLOGY (SS),166,,,,,,
+2005,"Government College of Technology (Autonomous)  Thadagam Road  Coimbatore
+District 641013",CE,CIVIL  ENGINEERING,174.5,,151.5,,,,
+2005,"Government College of Technology (Autonomous)  Thadagam Road  Coimbatore
+District 641013",CS,COMPUTER SCIENCE AND ENGINEERING,,,,,177.5,,
+2005,"Government College of Technology (Autonomous)  Thadagam Road  Coimbatore
+District 641013",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",186.5,,,,,,
+2005,"Government College of Technology
+(Autonomous)  Thadagam Road  Coimbatore District 641013",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,163,,,,,
+2005,"Government College of Technology
+(Autonomous)  Thadagam Road  Coimbatore District 641013",EI,"ELECTRONICS AND
+INSTRUMENTATION ENGINEERING",,,,174.5,,,
+2005,"Government College of Technology
+(Autonomous)  Thadagam Road  Coimbatore District 641013",IB,INDUSTRIAL BIO TECHNOLOGY,166.5,132.5,,159.5,,,
+2005,"Government College of Technology (Autonomous)  Thadagam Road  Coimbatore
+District 641013",IT,INFORMATION TECHNOLOGY,,,,,,150.5,
+2005,"Government College of Technology (Autonomous)  Thadagam Road  Coimbatore
+District 641013",ME,MECHANICAL ENGINEERING,,172,,,167.5,,
+2005,"Government College of Technology (Autonomous)  Thadagam Road  Coimbatore
+District 641013",PR,PRODUCTION ENGINEERING,170,166,,,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",AS,"AUTOMOBILE ENGINEERING
+(SS)",,164.5,,,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",BY,"BIO MEDICAL ENGINEERING
+(SS)",,,,,113.5,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",CE,CIVIL  ENGINEERING,157.5,,,,,,
+2006,PSG College of Technology (Autonomous) Peelamedu  Coimbatore District 641004,CG,"Computer Science and Engineering (Artificial Intelligence and Machine
+Learning) (SS)",,,,,168,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",CM,"COMPUTER SCIENCE AND
+ENGINEERING (SS)",195,195,,,,,
+2006,PSG College of Technology (Autonomous) Peelamedu  Coimbatore District 641004,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,193,,,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,,,,138.5,,
+2006,PSG College of Technology (Autonomous) Peelamedu  Coimbatore District 641004,EM,"ELECTRONICS AND COMMUNICATION
+ENGINEERING (SS)",,,,,,165.5,
+2006,PSG College of Technology (Autonomous) Peelamedu  Coimbatore District 641004,ES,ELECTRICAL AND ELECTRONICS (SANDWICH) (SS),,171.5,,,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",FY,FASHION TECHNOLOGY (SS),159.5,,,,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",IM,"INFORMATION TECHNOLOGY
+(SS)",,192,,,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",IY,"INSTRUMENTATION AND
+CONTROL ENGINEERING (SS)",,,,166,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",MF,"MECHANICAL ENGINEERING
+(SS)",,,,177.5,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",MS,"MECHANICAL ENGINEERING
+(SANDWICH) (SS)",,,160,,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",PS,"PRODUCTION ENGINEERING
+(SANDWICH) (SS)",,,,135.5,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",RA,"ROBOTICS AND AUTOMATION
+(SS)",,167.5,,,,,
+2006,"PSG College of Technology (Autonomous)
+Peelamedu  Coimbatore District 641004",TX,TEXTILE TECHNOLOGY,183,,,,,,
+2007,"Coimbatore Institute of Technology (Autonomous)  Civil Aerodrome Post
+Coimbatore District 641014",AT,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS),172.5,,,,,,
+2007,"Coimbatore Institute of Technology
+(Autonomous)  Civil Aerodrome Post Coimbatore District 641014",CE,CIVIL  ENGINEERING,,,,,150,,
+2007,"Coimbatore Institute of Technology
+(Autonomous)  Civil Aerodrome Post Coimbatore District 641014",CM,COMPUTER SCIENCE AND ENGINEERING (SS),,173.5,,,,,
+2007,"Coimbatore Institute of Technology
+(Autonomous)  Civil Aerodrome Post Coimbatore District 641014",CS,COMPUTER SCIENCE AND ENGINEERING,,191.5,,,,,
+2007,"Coimbatore Institute of Technology (Autonomous)  Civil Aerodrome Post
+Coimbatore District 641014",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,176.5,,,
+2007,"Coimbatore Institute of Technology (Autonomous)  Civil Aerodrome Post
+Coimbatore District 641014",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,191,,,,,
+2007,"Coimbatore Institute of Technology (Autonomous)  Civil Aerodrome Post
+Coimbatore District 641014",EM,"ELECTRONICS AND COMMUNICATION
+ENGINEERING (SS)",181.5,,,,,,
+2007,"Coimbatore Institute of Technology
+(Autonomous)  Civil Aerodrome Post Coimbatore District 641014",EY,ELECTRICAL AND ELECTRONICS ENGINEERING (SS),,,,153,,,
+2007,"Coimbatore Institute of Technology (Autonomous)  Civil Aerodrome Post
+Coimbatore District 641014",IM,INFORMATION TECHNOLOGY (SS),,,,,163,,
+2007,"Coimbatore Institute of Technology (Autonomous)  Civil Aerodrome Post
+Coimbatore District 641014",ME,MECHANICAL ENGINEERING,189,,,,,,
+2025,"Anna University Regional Campus - Coimbatore  Maruthamalai Main Road Navavoor Bharathiyar University Post Somayampalayam  Coimbatore District
+641046",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,158,,,,,
+2025,"Anna University Regional Campus - Coimbatore  Maruthamalai Main Road Navavoor Bharathiyar University Post Somayampalayam  Coimbatore District
+641046",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,166,138,,,,,
+2025,"Anna University Regional Campus - Coimbatore  Maruthamalai Main Road Navavoor Bharathiyar University Post Somayampalayam  Coimbatore District
+641046",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,121.5,,,
+2025,"Anna University Regional Campus - Coimbatore  Maruthamalai Main Road Navavoor Bharathiyar University Post Somayampalayam  Coimbatore District
+641046",ME,MECHANICAL ENGINEERING,160.5,,,,,,
+2302,"Sri Shanmugha College of Engineering and Technology  Morur Bit II Village  Salem
+District 637304",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,149.5,,,,,,
+2302,"Sri Shanmugha College of Engineering and
+Technology  Morur Bit II Village  Salem District 637304",CS,COMPUTER SCIENCE AND ENGINEERING,148.5,,,,,,
+2302,"Sri Shanmugha College of Engineering and Technology  Morur Bit II Village  Salem
+District 637304",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,108,,,
+2302,"Sri Shanmugha College of Engineering and Technology  Morur Bit II Village  Salem
+District 637304",ME,MECHANICAL ENGINEERING,,138,,,,,
+2327,"N S N College of Engineering and Technology Karur-Madurai NH7  Manalmedu  Karur
+District 639003",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,125.5,,,,,
+2327,"N S N College of Engineering and Technology
+Karur-Madurai NH7  Manalmedu  Karur District 639003",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,124,,,
+2327,"N S N College of Engineering and Technology
+Karur-Madurai NH7  Manalmedu  Karur District 639003",ME,MECHANICAL ENGINEERING,,,,136.5,,,
+2328,"K S R Institute for Engineering and
+Technology  (Autonomous) Thokkavadi Namakkal District 637215",IT,INFORMATION TECHNOLOGY,,,,137,,,
+2328,"K S R Institute for Engineering and Technology  (Autonomous) Thokkavadi
+Namakkal District 637215",ME,MECHANICAL ENGINEERING,126.5,,,,,,
+2329,"Rathinam Technical Campus  (Autonomous) Pollachi Road  Eachanari  Coimbatore District
+641021",CS,COMPUTER SCIENCE AND ENGINEERING,168,,,,,,
+2332,"Aishwarya College of Engineering and Technology  Errattaikaradu Paruvachi Post Anthiyur (Via)  Bhavani Taluk  Erode District
+638312",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,,140.5,,
+2341,"Ganesh College of Engineering  Attur Main
+Road  Mettupatti  Salem District 636111",CS,"COMPUTER SCIENCE AND
+ENGINEERING",,122,,,,,
+2342,"Sri Ranganathar Institute of Engineering and Technology  Thudialur-Kovilpalay Road
+Coimbatore District 641110",CE,CIVIL  ENGINEERING,,,,112.5,,,
+2342,"Sri Ranganathar Institute of Engineering and Technology  Thudialur-Kovilpalay Road
+Coimbatore District 641110",CS,COMPUTER SCIENCE AND ENGINEERING,134,,,,,,
+2342,"Sri Ranganathar Institute of Engineering and Technology  Thudialur-Kovilpalay Road
+Coimbatore District 641110",IT,INFORMATION TECHNOLOGY,137,,,,,,
+2345,"Dhirajlal Gandhi College of Technology
+Sikkanampatty  (Opp. to Airport)  Omalur Taluk  Salem District 636309",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,156.5,,,
+2346,"Shree Sathyam College of Engineering and Technology  NH-47  Manjakkalpatti Kuppanur Post  Sankari Taluk  Salem District
+637301",CS,COMPUTER SCIENCE AND ENGINEERING,,,,119.5,,,
+2346,"Shree Sathyam College of Engineering and Technology  NH-47  Manjakkalpatti Kuppanur Post  Sankari Taluk  Salem District
+637301",ME,MECHANICAL ENGINEERING,138,,,,,,
+2347,AVS College of Technology  Attur Main Road Near AVS College of Arts & Science Chinnagoundapuram  Salem District 636106,AG,AGRICULTURAL ENGINEERING,,,,118.5,,,
+2347,AVS College of Technology  Attur Main Road Near AVS College of Arts & Science Chinnagoundapuram  Salem District 636106,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,135.5,,,
+2347,AVS College of Technology  Attur Main Road Near AVS College of Arts & Science Chinnagoundapuram  Salem District 636106,IT,INFORMATION TECHNOLOGY,,126,,,,,
+2347,AVS College of Technology  Attur Main Road Near AVS College of Arts & Science Chinnagoundapuram  Salem District 636106,ME,MECHANICAL ENGINEERING,128,,,,,,
+2354,"Pollachi Institute of Engineering and Technology  Main Road  Poosaripatti
+Pollachi Taluk  Coimbatore District 642205",CS,COMPUTER SCIENCE AND ENGINEERING,,,,127.5,,,
+2354,"Pollachi Institute of Engineering and
+Technology  Main Road  Poosaripatti Pollachi Taluk  Coimbatore District 642205",ME,MECHANICAL ENGINEERING,138,,,,,,
+2357,"V S B College of Engineering Technical
+Campus  Ealur Pirivu  Solavampalayam Post Coimbatore District 642109",CS,COMPUTER SCIENCE AND ENGINEERING,160.5,,,,,,
+2357,"V S B College of Engineering Technical
+Campus  Ealur Pirivu  Solavampalayam Post Coimbatore District 642109",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,134.5,,,,,,
+2360,"Suguna College of Engineering  Kalappatti Road  Civil Aerodrome Post  Coimbatore
+District 641014",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",125.5,,,,,,
+2367,"Arjun College of Technology Chettiyakkapalayam  Kinathukadavu
+Coimbatore District 642120",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,139,,,,,,
+2369,"Government College of Engineering Chettikkarai Post  Dharmapuri District
+635704",CE,CIVIL  ENGINEERING,141,,,,,,
+2369,"Government College of Engineering
+Chettikkarai Post  Dharmapuri District 635704",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,158.5,,,
+2369,"Government College of Engineering Chettikkarai Post  Dharmapuri District
+635704",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,130,,,,,
+2369,"Government College of Engineering Chettikkarai Post  Dharmapuri District
+635704",ME,MECHANICAL ENGINEERING,145.5,109.5,,,,,
+2377,"PSG Institute of Technology and Applied Research  Avinashi Road  Neelambur
+Coimbatore 641062",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,181.5,,,,,,
+2377,"PSG Institute of Technology and Applied
+Research  Avinashi Road  Neelambur Coimbatore 641062",CB,COMPUTER SCIENCE AND BUSSINESS SYSTEM,,,141,,,,
+2377,"PSG Institute of Technology and Applied
+Research  Avinashi Road  Neelambur Coimbatore 641062",CE,CIVIL  ENGINEERING,,134,,,,,
+2377,"PSG Institute of Technology and Applied
+Research  Avinashi Road  Neelambur Coimbatore 641062",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",176,,,,,,
+2377,"PSG Institute of Technology and Applied Research  Avinashi Road  Neelambur
+Coimbatore 641062",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,,139.5,,
+2601,"Adhiyamaan  College of Engineering (Autonomous)  Hosur  Krishnagiri District
+635109",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,130,,,,,,
+2603,"Government College of Engineering (Autonomous)  Bargur  Krishnagiri District
+635104",CS,COMPUTER SCIENCE AND ENGINEERING,162,,,,,,
+2603,"Government College of Engineering
+(Autonomous)  Bargur  Krishnagiri District 635104",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",168,155,,,,,
+2603,"Government College of Engineering (Autonomous)  Bargur  Krishnagiri District
+635104",ME,MECHANICAL ENGINEERING,,,,162.5,,,
+2607,"K S Rangasamy College of Technology (Autonomous)  Tiruchengode  Namakkal
+District 637215",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,127.5,,,
+2607,"K S Rangasamy College of Technology (Autonomous)  Tiruchengode  Namakkal
+District 637215",MZ,Mechatronics Engineering,,151.5,,,,,
+2607,"K S Rangasamy College of Technology
+(Autonomous)  Tiruchengode  Namakkal District 637215",TX,TEXTILE TECHNOLOGY,,146,,,,,
+2608,"M Kumarasamy College of Engineering
+(Autonomous)  Thalavapalayam  Karur District 639113",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,126.5,,,,,
+2608,"M Kumarasamy College of Engineering
+(Autonomous)  Thalavapalayam  Karur District 639113",CS,COMPUTER SCIENCE AND ENGINEERING,130,,,,,,
+2608,"M Kumarasamy College of Engineering (Autonomous)  Thalavapalayam  Karur
+District 639113",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",154,,,,,,
+2608,"M Kumarasamy College of Engineering (Autonomous)  Thalavapalayam  Karur
+District 639113",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,159,,,,,,
+2608,"M Kumarasamy College of Engineering (Autonomous)  Thalavapalayam  Karur
+District 639113",ME,MECHANICAL ENGINEERING,145.5,135,,,,,
+2609,"Mahendra Engineering College
+(Autonomous)  Mahendhirapuri Mallasamudram  Namakkal District 637503",CH,CHEMICAL  ENGINEERING,,114,,,,,
+2609,"Mahendra Engineering College (Autonomous)  Mahendhirapuri
+Mallasamudram  Namakkal District 637503",CS,COMPUTER SCIENCE AND ENGINEERING,,126,,,153.5,,
+2609,"Mahendra Engineering College (Autonomous)  Mahendhirapuri
+Mallasamudram  Namakkal District 637503",CY,Cyber Security,,128.5,,,,,
+2609,"Mahendra Engineering College (Autonomous)  Mahendhirapuri
+Mallasamudram  Namakkal District 637503",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",124,,,,,,
+2609,"Mahendra Engineering College
+(Autonomous)  Mahendhirapuri Mallasamudram  Namakkal District 637503",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,149,,,,,
+2609,"Mahendra Engineering College
+(Autonomous)  Mahendhirapuri Mallasamudram  Namakkal District 637503",IT,INFORMATION TECHNOLOGY,,,,123.5,136,,
+2609,"Mahendra Engineering College
+(Autonomous)  Mahendhirapuri Mallasamudram  Namakkal District 637503",ME,MECHANICAL ENGINEERING,141,,,,,,
+2609,"Mahendra Engineering College (Autonomous)  Mahendhirapuri
+Mallasamudram  Namakkal District 637503",MZ,Mechatronics Engineering,,,,163,,,
+2610,"Muthayammal Engineering College (Autonomous)  Rasipuram  Namakkal District
+637408",BT,BIO TECHNOLOGY,124.5,,,,,,
+2610,"Muthayammal Engineering College (Autonomous)  Rasipuram  Namakkal District
+637408",CE,CIVIL  ENGINEERING,,138,,,,,
+2610,"Muthayammal Engineering College
+(Autonomous)  Rasipuram  Namakkal District 637408",CS,COMPUTER SCIENCE AND ENGINEERING,141.5,107.5,,,,,
+2610,"Muthayammal Engineering College (Autonomous)  Rasipuram  Namakkal District
+637408",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",128,,,,,,
+2610,"Muthayammal Engineering College (Autonomous)  Rasipuram  Namakkal District
+637408",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,121,,,,,,
+2610,"Muthayammal Engineering College (Autonomous)  Rasipuram  Namakkal District
+637408",IT,INFORMATION TECHNOLOGY,122,,,,,,
+2610,"Muthayammal Engineering College
+(Autonomous)  Rasipuram  Namakkal District 637408",ME,MECHANICAL ENGINEERING,120.5,,,,,,
+2611,Paavai Engineering College (Autonomous) NH-7  Pachal Post  Namakkal District 637018,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,118.5,,,,,,
+2611,Paavai Engineering College (Autonomous) NH-7  Pachal Post  Namakkal District 637018,CS,COMPUTER SCIENCE AND ENGINEERING,149.5,,,127.5,,,
+2611,Paavai Engineering College (Autonomous) NH-7  Pachal Post  Namakkal District 637018,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,135,,,
+2611,Paavai Engineering College (Autonomous) NH-7  Pachal Post  Namakkal District 637018,IT,INFORMATION TECHNOLOGY,126.5,,,,,,
+2611,Paavai Engineering College (Autonomous) NH-7  Pachal Post  Namakkal District 637018,MZ,Mechatronics Engineering,148,,,,,,
+2611,Paavai Engineering College (Autonomous) NH-7  Pachal Post  Namakkal District 637018,RM,ROBOTICS AND AUTOMATION,,134.5,,,,,
+2613,K S R College of Engineering (Autonomous) Tiruchengode  Namakkal District 637215,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",148,,,,,,
+2613,"K S R College of Engineering (Autonomous)
+Tiruchengode  Namakkal District 637215",ME,MECHANICAL ENGINEERING,130.5,,,,,,
+2613,"K S R College of Engineering (Autonomous)
+Tiruchengode  Namakkal District 637215",SF,Safety and Fire Engineering,,,,,,112,
+2614,S S M College of Engineering Komarapalayam  Namakkal District 638183,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,108.5,,,
+2614,"S S M College of Engineering
+Komarapalayam  Namakkal District 638183",TX,TEXTILE TECHNOLOGY,,,,147,,,
+2615,"Government College of Engineering (Autonomous)  Karuppur  Salem District
+636011",CE,CIVIL  ENGINEERING,161,,,,145,,
+2615,"Government College of Engineering (Autonomous)  Karuppur  Salem District
+636011",CS,COMPUTER SCIENCE AND ENGINEERING,,169,,,,,
+2615,"Government College of Engineering
+(Autonomous)  Karuppur  Salem District 636011",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,160.5,,,
+2615,"Government College of Engineering
+(Autonomous)  Karuppur  Salem District 636011",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,168,,,165.5,,,
+2615,"Government College of Engineering
+(Autonomous)  Karuppur  Salem District 636011",ME,MECHANICAL ENGINEERING,162.5,154.5,,,,,
+2617,"Sengunthar Engineering College (Autonomous)  Tiruchengode  Namakkal
+District 637205",CS,COMPUTER SCIENCE AND ENGINEERING,132,,,,,,
+2617,"Sengunthar Engineering College (Autonomous)  Tiruchengode  Namakkal
+District 637205",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,122,,,,,,
+2617,"Sengunthar Engineering College (Autonomous)  Tiruchengode  Namakkal
+District 637205",ME,MECHANICAL ENGINEERING,,104,,,,,
+2617,"Sengunthar Engineering College
+(Autonomous)  Tiruchengode  Namakkal District 637205",SC,Computer Science and Engineering (Cyber Security),,,,,,101.5,
+2618,"Sona College of Technology (Autonomous)
+Suramangalam Post  Salem District 636005",AD,"ARTIFICIAL INTELLIGENCE AND
+DATA SCIENCE",,,,137,,,
+2618,Sona College of Technology (Autonomous) Suramangalam Post  Salem District 636005,AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",127,,,,,,
+2618,"Sona College of Technology (Autonomous)
+Suramangalam Post  Salem District 636005",CS,"COMPUTER SCIENCE AND
+ENGINEERING",144.5,,,134,,,
+2618,Sona College of Technology (Autonomous) Suramangalam Post  Salem District 636005,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",143,,,,,,
+2618,"Sona College of Technology (Autonomous)
+Suramangalam Post  Salem District 636005",IT,INFORMATION TECHNOLOGY,,131.5,,,,,
+2618,"Sona College of Technology (Autonomous)
+Suramangalam Post  Salem District 636005",ME,MECHANICAL ENGINEERING,140.5,,,,,,
+2618,"Sona College of Technology (Autonomous)
+Suramangalam Post  Salem District 636005",MZ,Mechatronics Engineering,,164,,,,,
+2621,Er. Perumal Manimekalai College of Engineering   (Autonomous) Near Koneripalli Hosur  Krishnagiri District 635117,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,141.5,,,,,,
+2621,Er. Perumal Manimekalai College of Engineering   (Autonomous) Near Koneripalli Hosur  Krishnagiri District 635117,CS,COMPUTER SCIENCE AND ENGINEERING,,,,,105,,
+2622,V S B Engineering College(Autonomous) Kovai Road  Karur District 639111,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",138.5,,,,,,
+2622,"V S B Engineering College(Autonomous)
+Kovai Road  Karur District 639111",ME,MECHANICAL ENGINEERING,144.5,,,,,,
+2623,"Mahendra College of Engineering  Attur Road Minnampalli  Valapady  Salem District
+636106",BM,BIO MEDICAL ENGINEERING,111,,,,,,
+2623,"Mahendra College of Engineering  Attur Road
+Minnampalli  Valapady  Salem District 636106",CS,COMPUTER SCIENCE AND ENGINEERING,124,,,116,,,
+2623,"Mahendra College of Engineering  Attur Road
+Minnampalli  Valapady  Salem District 636106",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,139,,,,,
+2623,"Mahendra College of Engineering  Attur Road
+Minnampalli  Valapady  Salem District 636106",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,162.5,,,
+2623,"Mahendra College of Engineering  Attur Road Minnampalli  Valapady  Salem District
+636106",IT,INFORMATION TECHNOLOGY,,150.5,,,,,
+2623,"Mahendra College of Engineering  Attur Road Minnampalli  Valapady  Salem District
+636106",ME,MECHANICAL ENGINEERING,,,119,,,,
+2624,"Gnanamani College of Technology (Autonomous) Pachal Post  Namakkal District
+637018",AG,AGRICULTURAL ENGINEERING,142,,,,,,
+2624,"Gnanamani College of Technology
+(Autonomous) Pachal Post  Namakkal District 637018",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,108.5,137,,
+2624,"Gnanamani College of Technology (Autonomous) Pachal Post  Namakkal District
+637018",IT,INFORMATION TECHNOLOGY,138.5,,,,112.5,,
+2624,"Gnanamani College of Technology (Autonomous) Pachal Post  Namakkal District
+637018",ME,MECHANICAL ENGINEERING,,,,158,,,
+2625,The Kavery Engineering College  M Kalipatti Post  Mecheri  Salem District 634456,CS,COMPUTER SCIENCE AND ENGINEERING,121.5,,,,,,
+2625,The Kavery Engineering College  M Kalipatti Post  Mecheri  Salem District 634456,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,104,,,,,
+2627,"Selvam College of Technology
+Pappanaickenpatti Post  Namakkal District 637003",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,127.5,,,,,
+2628,"Paavai College of Engineering  NH-7  Pachal
+Post  Namakkal District 637018",CS,"COMPUTER SCIENCE AND
+ENGINEERING",,,,113.5,,,
+2628,"Paavai College of Engineering  NH-7  Pachal
+Post  Namakkal District 637018",ME,MECHANICAL ENGINEERING,127,,,,,,
+2632,Mahendra Institute of Technology (Autonomous)  Mahendhirapuri Mallasamudram   Namakkal District 637503,AU,AUTOMOBILE ENGINEERING,174,,,,,,
+2632,Mahendra Institute of Technology (Autonomous)  Mahendhirapuri Mallasamudram   Namakkal District 637503,CS,COMPUTER SCIENCE AND ENGINEERING,165.5,138.5,,160,,,
+2632,Mahendra Institute of Technology (Autonomous)  Mahendhirapuri Mallasamudram   Namakkal District 637503,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,157,,,,,
+2632,Mahendra Institute of Technology (Autonomous)  Mahendhirapuri Mallasamudram   Namakkal District 637503,IT,INFORMATION TECHNOLOGY,136.5,,,,,,
+2632,Mahendra Institute of Technology (Autonomous)  Mahendhirapuri Mallasamudram   Namakkal District 637503,ME,MECHANICAL ENGINEERING,138.5,,,133,,,
+2634,"Excel Engineering College (Autonomous)  NH- 544  Salem Main Road  Pallakapalayam Sankari West Post  Komarapalayam Taluk
+Namakkal District - 637303",CS,COMPUTER SCIENCE AND ENGINEERING,,,,149,,,
+2634,"Excel Engineering College (Autonomous)  NH- 544  Salem Main Road  Pallakapalayam Sankari West Post  Komarapalayam Taluk
+Namakkal District - 637303",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,151,,,
+2634,"Excel Engineering College (Autonomous)  NH- 544  Salem Main Road  Pallakapalayam Sankari West Post  Komarapalayam Taluk
+Namakkal District - 637303",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,164.5,,,,,
+2634,"Excel Engineering College (Autonomous)  NH- 544  Salem Main Road  Pallakapalayam Sankari West Post  Komarapalayam Taluk
+Namakkal District - 637303",IT,INFORMATION TECHNOLOGY,144.5,,,,,,
+2634,"Excel Engineering College (Autonomous)  NH- 544  Salem Main Road  Pallakapalayam Sankari West Post  Komarapalayam Taluk
+Namakkal District - 637303",ME,MECHANICAL ENGINEERING,,138,,,,,
+2636,"A V S Engineering College  Military Road
+Ammapet  Salem District 636003",AD,"ARTIFICIAL INTELLIGENCE AND
+DATA SCIENCE",,125.5,,,,,
+2636,"A V S Engineering College  Military Road
+Ammapet  Salem District 636003",CS,"COMPUTER SCIENCE AND
+ENGINEERING",,,,,127.5,,
+2636,A V S Engineering College  Military Road Ammapet  Salem District 636003,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",148.5,,,,,,
+2636,"A V S Engineering College  Military Road
+Ammapet  Salem District 636003",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",164,,,,,,
+2636,"A V S Engineering College  Military Road
+Ammapet  Salem District 636003",IT,INFORMATION TECHNOLOGY,121,,,,,,
+2636,"A V S Engineering College  Military Road
+Ammapet  Salem District 636003",ME,MECHANICAL ENGINEERING,,127,,,,,
+2639,"R P Sarathy Institute of Technology Poosaripatty  Kadaympatty Taluk  Salem
+Tamil Nadu-636305",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",114,,,,,,
+2640,"Jayalakshmi Institute of Technology  Thoppur
+Dharmapuri District 635352",CS,"COMPUTER SCIENCE AND
+ENGINEERING",130.5,,,,,,
+2641,Varuvan Vadivelan Institute of Technology Nallanahalli  Dharmapuri District 636701,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",121.5,,,,,,
+2642,"P S V College of Engineeering and Technology Mittapalli  Balinayanapalli Post  Elathagiri
+Krishnagiri District 635108",CE,CIVIL  ENGINEERING,153.5,,,,,,
+2642,"P S V College of Engineeering and Technology Mittapalli  Balinayanapalli Post  Elathagiri
+Krishnagiri District 635108",CS,COMPUTER SCIENCE AND ENGINEERING,,129.5,,,,,
+2642,"P S V College of Engineeering and Technology Mittapalli  Balinayanapalli Post  Elathagiri
+Krishnagiri District 635108",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",125.5,,,,,,
+2642,"P S V College of Engineeering and Technology Mittapalli  Balinayanapalli Post  Elathagiri
+Krishnagiri District 635108",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,117,,,,
+2642,"P S V College of Engineeering and Technology
+Mittapalli  Balinayanapalli Post  Elathagiri Krishnagiri District 635108",IT,INFORMATION TECHNOLOGY,,,,129.5,,,
+2642,"P S V College of Engineeering and Technology Mittapalli  Balinayanapalli Post  Elathagiri
+Krishnagiri District 635108",ME,MECHANICAL ENGINEERING,,,,134.5,,,
+2646,"Tagore Institute of Engineering and Technology  Deviyakurichi  Attur Taluk  Salem
+District 636112",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,171.5,,,,,
+2646,"Tagore Institute of Engineering and
+Technology  Deviyakurichi  Attur Taluk  Salem District 636112",ME,MECHANICAL ENGINEERING,,,,134,,,
+2647,"J K K Nataraja College of Engineering and Technology  Komarapalayam Amani Thattankuttai Panchayat  Namakkal District
+638183",CS,COMPUTER SCIENCE AND ENGINEERING,,,,,128,,
+2647,"J K K Nataraja College of Engineering and Technology  Komarapalayam Amani Thattankuttai Panchayat  Namakkal District
+638183",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,118,,,,,,
+2647,"J K K Nataraja College of Engineering and Technology  Komarapalayam Amani Thattankuttai Panchayat  Namakkal District
+638183",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,106,,,,,,
+2648,"Annapoorana Engineering College (Autonomous)  Sankari Main Road  NH-47
+Periaseeragapadi  Salem District 636308",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,,,131.5,,,
+2648,"Annapoorana Engineering College
+(Autonomous)  Sankari Main Road  NH-47 Periaseeragapadi  Salem District 636308",CE,CIVIL  ENGINEERING,108.5,,,,,,
+2648,"Annapoorana Engineering College (Autonomous)  Sankari Main Road  NH-47
+Periaseeragapadi  Salem District 636308",CS,COMPUTER SCIENCE AND ENGINEERING,121.5,,,,,,
+2648,"Annapoorana Engineering College (Autonomous)  Sankari Main Road  NH-47
+Periaseeragapadi  Salem District 636308",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",152,,,,,,
+2648,"Annapoorana Engineering College (Autonomous)  Sankari Main Road  NH-47
+Periaseeragapadi  Salem District 636308",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,109.5,139.5,,
+2650,"Christ The King Engineering College  Cecilia
+Gardens  Chikkarampalayam Village Coimbatore District 641104",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,134.5,,,
+2650,"Christ The King Engineering College  Cecilia
+Gardens  Chikkarampalayam Village Coimbatore District 641104",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,,126.5,,
+2650,"Christ The King Engineering College  Cecilia
+Gardens  Chikkarampalayam Village Coimbatore District 641104",IT,INFORMATION TECHNOLOGY,143,,,,,,
+2651,"Jai Shriram Engineering College  Dharapuram Road  Avinashi Palayam  Tiruppur District
+638660",CS,COMPUTER SCIENCE AND ENGINEERING,146,,,,,,
+2651,"Jai Shriram Engineering College  Dharapuram Road  Avinashi Palayam  Tiruppur District
+638660",FT,FASHION TECHNOLOGY,,137.5,,,,,
+2652,"AL-Ameen Engineering College (Autonomous)  Karundevan Palayam  Nanjai
+Uthukuli Post  Erode District 638104",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",135,,,,,,
+2652,"AL-Ameen Engineering College
+(Autonomous)  Karundevan Palayam  Nanjai Uthukuli Post  Erode District 638104",ME,MECHANICAL ENGINEERING,118.5,,,,,,
+2653,"Knowledge Institute of Technology (Autonomous) KIOT Campus  Kakapalayam
+Post  Salem District 637504",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,147,,,,,,
+2653,"Knowledge Institute of Technology (Autonomous) KIOT Campus  Kakapalayam
+Post  Salem District 637504",CS,COMPUTER SCIENCE AND ENGINEERING,,,,,132.5,,
+2656,Builders Engineering college  Nathakadaiyur Erode Road  Palayakottai Village  Kangeyam Tiruppur District 638108,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,,,151.5,,,
+2656,Builders Engineering college  Nathakadaiyur Erode Road  Palayakottai Village  Kangeyam Tiruppur District 638108,CS,COMPUTER SCIENCE AND ENGINEERING,163.5,,,,,,
+2656,Builders Engineering college  Nathakadaiyur Erode Road  Palayakottai Village  Kangeyam Tiruppur District 638108,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,121,,,,,
+2656,Builders Engineering college  Nathakadaiyur Erode Road  Palayakottai Village  Kangeyam Tiruppur District 638108,ME,MECHANICAL ENGINEERING,,,,,144.5,,
+2658,"V S A Group of Institutions  NH-47 Uthamasola Puram Post  Salem District
+636010",CS,COMPUTER SCIENCE AND ENGINEERING,,,,139,,,
+2659,Salem College of Engineering and Technology Salem-Attur Main Road  NH-68  Mettupatty Perumapalayam  Salem District 636111,CS,COMPUTER SCIENCE AND ENGINEERING,148.5,,,,,,
+2673,"Sree Sakthi Engineering College Bettathapuram  Bilichi Village  Karamadai
+Coimbatore District 641104",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,150.5,,,
+2673,"Sree Sakthi Engineering College
+Bettathapuram  Bilichi Village  Karamadai Coimbatore District 641104",IT,INFORMATION TECHNOLOGY,129,,,,,,
+2673,"Sree Sakthi Engineering College Bettathapuram  Bilichi Village  Karamadai
+Coimbatore District 641104",ME,MECHANICAL ENGINEERING,,,,,131.5,,
+2673,"Sree Sakthi Engineering College Bettathapuram  Bilichi Village  Karamadai
+Coimbatore District 641104",SC,Computer Science and Engineering (Cyber Security),134,,,,,,
+2702,"Bannari Amman Institute of Technology
+(Autonomous)  Sathyamanagalam  Erode District  638401",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,153,,,,,
+2702,"Bannari Amman Institute of Technology
+(Autonomous)  Sathyamanagalam  Erode District  638401",CD,COMPUTER SCIENCE AND DESIGN,157.5,,,,,,
+2702,"Bannari Amman Institute of Technology
+(Autonomous)  Sathyamanagalam  Erode District  638401",CS,COMPUTER SCIENCE AND ENGINEERING,169,,,,,,
+2702,"Bannari Amman Institute of Technology (Autonomous)  Sathyamanagalam  Erode
+District  638401",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",174,,,143,,,
+2702,"Bannari Amman Institute of Technology (Autonomous)  Sathyamanagalam  Erode
+District  638401",IT,INFORMATION TECHNOLOGY,,162,,153,,,
+2702,"Bannari Amman Institute of Technology (Autonomous)  Sathyamanagalam  Erode
+District  638401",ME,MECHANICAL ENGINEERING,,141.5,,,,,
+2702,"Bannari Amman Institute of Technology
+(Autonomous)  Sathyamanagalam  Erode District  638401",MZ,Mechatronics Engineering,150,,,,,,
+2702,"Bannari Amman Institute of Technology (Autonomous)  Sathyamanagalam  Erode
+District  638401",SE,Information Science and Engineering,152.5,,,,,,
+2704,"Coimbatore Institute of Engineering and Technolgoy (Autonomous)  Narasipuram Post
+Coimbatore District 641109",CS,COMPUTER SCIENCE AND ENGINEERING,,,,135,153.5,,
+2704,"Coimbatore Institute of Engineering and Technolgoy (Autonomous)  Narasipuram Post
+Coimbatore District 641109",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,133,,,,,
+2704,"Coimbatore Institute of Engineering and
+Technolgoy (Autonomous)  Narasipuram Post Coimbatore District 641109",ME,MECHANICAL ENGINEERING,136.5,,,,,,
+2704,"Coimbatore Institute of Engineering and
+Technolgoy (Autonomous)  Narasipuram Post Coimbatore District 641109",SC,Computer Science and Engineering (Cyber Security),,157.5,,,,,
+2706,"Dr. Mahalingam College of  Engineering and Technology (Autonomous) Mackinaickenpatti Post  Pollachi Taluk
+Coimbatore District 642003",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,159,,,,,
+2706,"Dr. Mahalingam College of  Engineering and Technology (Autonomous) Mackinaickenpatti Post  Pollachi Taluk
+Coimbatore District 642003",AU,AUTOMOBILE ENGINEERING,,152,,,,,
+2706,"Dr. Mahalingam College of  Engineering and Technology (Autonomous) Mackinaickenpatti Post  Pollachi Taluk
+Coimbatore District 642003",CS,COMPUTER SCIENCE AND ENGINEERING,,165,,,,,
+2706,"Dr. Mahalingam College of  Engineering and Technology (Autonomous) Mackinaickenpatti Post  Pollachi Taluk
+Coimbatore District 642003",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,165,,,
+2706,"Dr. Mahalingam College of  Engineering and Technology (Autonomous) Mackinaickenpatti Post  Pollachi Taluk
+Coimbatore District 642003",ME,MECHANICAL ENGINEERING,163,,,,,,
+2706,"Dr. Mahalingam College of  Engineering and Technology (Autonomous) Mackinaickenpatti Post  Pollachi Taluk
+Coimbatore District 642003",SC,Computer Science and Engineering (Cyber Security),146.5,,,,,,
+2707,"Erode Sengunthar Engineering College
+(Autonomous)  Thudupathi Post  Erode District 638057",ME,MECHANICAL ENGINEERING,136.5,,,,,,
+2708,"Hindusthan College of Engineering and Technology (Autonomous) Othakkalmandapam Post  Coimbatore
+District 641032",CS,COMPUTER SCIENCE AND ENGINEERING,146,125,,,,,
+2709,"Government College of Engineering (Formerly Institute of Road and Transport Technology)  Vasavi College Post  Erode
+District 638316",CE,CIVIL  ENGINEERING,,,,159.5,,,
+2709,"Government College of Engineering (Formerly Institute of Road and Transport Technology)  Vasavi College Post  Erode
+District 638316",CS,COMPUTER SCIENCE AND ENGINEERING,,153.5,,,,,
+2709,"Government College of Engineering (Formerly Institute of Road and Transport Technology)  Vasavi College Post  Erode
+District 638316",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,,132,,
+2709,"Government College of Engineering (Formerly Institute of Road and Transport Technology)  Vasavi College Post  Erode
+District 638316",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,178,,,,,,
+2709,"Government College of Engineering (Formerly Institute of Road and Transport Technology)  Vasavi College Post  Erode
+District 638316",IT,INFORMATION TECHNOLOGY,,153.5,,,,,
+2709,"Government College of Engineering (Formerly Institute of Road and Transport Technology)  Vasavi College Post  Erode
+District 638316",ME,MECHANICAL ENGINEERING,174,,,,,,
+2710,"Karpagam College of Engineering
+(Autonomous)  Othakkalmandapam Coimbatore District 641032",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,132.5,,,,,
+2710,"Karpagam College of Engineering
+(Autonomous)  Othakkalmandapam Coimbatore District 641032",CE,CIVIL  ENGINEERING,140,,,,,,
+2710,"Karpagam College of Engineering
+(Autonomous)  Othakkalmandapam Coimbatore District 641032",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,155.5,,,,,,
+2710,"Karpagam College of Engineering (Autonomous)  Othakkalmandapam
+Coimbatore District 641032",ET,"ELECTRONICS AND TELECOMMUNICATION
+ENGINEERING",,150.5,,,,,
+2710,"Karpagam College of Engineering (Autonomous)  Othakkalmandapam
+Coimbatore District 641032",IT,INFORMATION TECHNOLOGY,,147,,,,,
+2710,"Karpagam College of Engineering (Autonomous)  Othakkalmandapam
+Coimbatore District 641032",ME,MECHANICAL ENGINEERING,,,149,,,,
+2710,"Karpagam College of Engineering
+(Autonomous)  Othakkalmandapam Coimbatore District 641032",TS,Computer Science and Technology,153,,,,,,
+2711,"Kongu Engineering College (Autonomous)
+Perundurai  Erode District 638052",AD,"ARTIFICIAL INTELLIGENCE AND
+DATA SCIENCE",158,,,,,,
+2711,"Kongu Engineering College (Autonomous)
+Perundurai  Erode District 638052",CD,"COMPUTER SCIENCE AND
+DESIGN",,149.5,,,,,
+2711,"Kongu Engineering College (Autonomous)
+Perundurai  Erode District 638052",CS,"COMPUTER SCIENCE AND
+ENGINEERING",168,162.5,,,,,
+2711,Kongu Engineering College (Autonomous) Perundurai  Erode District 638052,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",160.5,157,,,,,
+2711,"Kongu Engineering College (Autonomous)
+Perundurai  Erode District 638052",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,164.5,,,,,
+2711,"Kongu Engineering College (Autonomous)
+Perundurai  Erode District 638052",IT,INFORMATION TECHNOLOGY,158.5,,,,,,
+2711,"Kongu Engineering College (Autonomous)
+Perundurai  Erode District 638052",ME,MECHANICAL ENGINEERING,,114,,,,,
+2712,"Kumaraguru College of Technology (Autonomous)  Chinnavedampatti Post
+Coimbatore District 641006",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,190,,,,,,
+2712,"Kumaraguru College of Technology (Autonomous)  Chinnavedampatti Post
+Coimbatore District 641006",BT,BIO TECHNOLOGY,150,,,,,,
+2712,"Kumaraguru College of Technology (Autonomous)  Chinnavedampatti Post
+Coimbatore District 641006",CE,CIVIL  ENGINEERING,,163.5,,,,,
+2712,"Kumaraguru College of Technology (Autonomous)  Chinnavedampatti Post
+Coimbatore District 641006",CS,COMPUTER SCIENCE AND ENGINEERING,195.5,182,,,,,
+2712,"Kumaraguru College of Technology (Autonomous)  Chinnavedampatti Post
+Coimbatore District 641006",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",174.5,,,158,,,
+2712,"Kumaraguru College of Technology (Autonomous)  Chinnavedampatti Post
+Coimbatore District 641006",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,172,,,127.5,,
+2712,"Kumaraguru College of Technology
+(Autonomous)  Chinnavedampatti Post Coimbatore District 641006",EI,"ELECTRONICS AND
+INSTRUMENTATION ENGINEERING",,166.5,,,,,
+2712,"Kumaraguru College of Technology (Autonomous)  Chinnavedampatti Post
+Coimbatore District 641006",IT,INFORMATION TECHNOLOGY,,173,,158.5,,,
+2712,"Kumaraguru College of Technology (Autonomous)  Chinnavedampatti Post
+Coimbatore District 641006",MZ,Mechatronics Engineering,,179,,,,,
+2712,"Kumaraguru College of Technology
+(Autonomous)  Chinnavedampatti Post Coimbatore District 641006",TX,TEXTILE TECHNOLOGY,162.5,,,,,,
+2713,M P Nachimuthu M Jaganathan Engineering College  Chennimalai  Erode District 638112,CS,COMPUTER SCIENCE AND ENGINEERING,136,,,,,,
+2713,M P Nachimuthu M Jaganathan Engineering College  Chennimalai  Erode District 638112,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,123,,,,,
+2713,M P Nachimuthu M Jaganathan Engineering College  Chennimalai  Erode District 638112,IT,INFORMATION TECHNOLOGY,,,,146.5,,,
+2715,"Nandha Engineering College (Autonomous) Pitchandampalayam Post  Erode District
+638052",CS,COMPUTER SCIENCE AND ENGINEERING,,,,,140,,
+2715,"Nandha Engineering College (Autonomous) Pitchandampalayam Post  Erode District
+638052",ME,MECHANICAL ENGINEERING,,,,144.5,,,
+2718,"Sri Krishna College of Enginering and
+Technology (Autonomous)   Kuniamuthur Coimbatore District 641008",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,165.5,,,,,,
+2718,"Sri Krishna College of Enginering and Technology (Autonomous)   Kuniamuthur
+Coimbatore District 641008",CB,COMPUTER SCIENCE AND BUSSINESS SYSTEM,170.5,,,,,,
+2718,"Sri Krishna College of Enginering and Technology (Autonomous)   Kuniamuthur
+Coimbatore District 641008",CD,COMPUTER SCIENCE AND DESIGN,,156,,,,,
+2718,"Sri Krishna College of Enginering and Technology (Autonomous)   Kuniamuthur
+Coimbatore District 641008",CS,COMPUTER SCIENCE AND ENGINEERING,164.5,163,,144.5,,,
+2718,"Sri Krishna College of Enginering and
+Technology (Autonomous)   Kuniamuthur Coimbatore District 641008",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,187.5,,,,,
+2718,"Sri Krishna College of Enginering and
+Technology (Autonomous)   Kuniamuthur Coimbatore District 641008",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,153.5,,,149.5,,
+2718,"Sri Krishna College of Enginering and
+Technology (Autonomous)   Kuniamuthur Coimbatore District 641008",IT,INFORMATION TECHNOLOGY,152.5,,,141.5,,,
+2718,"Sri Krishna College of Enginering and Technology (Autonomous)   Kuniamuthur
+Coimbatore District 641008",ME,MECHANICAL ENGINEERING,158.5,,,157.5,,,
+2718,"Sri Krishna College of Enginering and Technology (Autonomous)   Kuniamuthur
+Coimbatore District 641008",SC,Computer Science and Engineering (Cyber Security),,170.5,,,,,
+2719,"Sri Ramakrishna Engineering College (Autonomous)  Vattamalaipalayam
+Coimbatore District 641022",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,152,,,,,,
+2719,"Sri Ramakrishna Engineering College
+(Autonomous)  Vattamalaipalayam Coimbatore District 641022",EI,"ELECTRONICS AND
+INSTRUMENTATION ENGINEERING",,145.5,,,,,
+2719,"Sri Ramakrishna Engineering College (Autonomous)  Vattamalaipalayam
+Coimbatore District 641022",IT,INFORMATION TECHNOLOGY,157.5,,,,,,
+2719,"Sri Ramakrishna Engineering College (Autonomous)  Vattamalaipalayam
+Coimbatore District 641022",ME,MECHANICAL ENGINEERING,,,,156,,,
+2719,"Sri Ramakrishna Engineering College (Autonomous)  Vattamalaipalayam
+Coimbatore District 641022",RM,ROBOTICS AND AUTOMATION,133.5,,,,,,
+2721,"Tamilnadu College of Engineering
+Karumathampatti Post  Coimbatore District 641659",CS,COMPUTER SCIENCE AND ENGINEERING,123.5,,,,,,
+2721,"Tamilnadu College of Engineering
+Karumathampatti Post  Coimbatore District 641659",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,149.5,,,
+2722,"Sri Krishna College of Technology
+(Autonomous)   Kovaipudur Post  Coimbatore District 641042",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,149.5,,,,,
+2722,Sri Krishna College of Technology (Autonomous)   Kovaipudur Post  Coimbatore District 641042,AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",148,,,,,,
+2722,"Sri Krishna College of Technology (Autonomous)   Kovaipudur Post  Coimbatore
+District 641042",CI,"Computer Science and Engineering (Internet of
+Things)",,,,136,,,
+2722,"Sri Krishna College of Technology (Autonomous)   Kovaipudur Post  Coimbatore
+District 641042",CS,COMPUTER SCIENCE AND ENGINEERING,158.5,149.5,,,,,
+2722,"Sri Krishna College of Technology (Autonomous)   Kovaipudur Post  Coimbatore
+District 641042",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,,161,,
+2722,"Sri Krishna College of Technology
+(Autonomous)   Kovaipudur Post  Coimbatore District 641042",IT,INFORMATION TECHNOLOGY,161,144.5,,,,,
+2722,"Sri Krishna College of Technology (Autonomous)   Kovaipudur Post  Coimbatore
+District 641042",ME,MECHANICAL ENGINEERING,167.5,,,,,,
+2723,"Velalar College of Engineering and Technology (Autonomous)  Thindal Post
+Erode District 638012",CS,COMPUTER SCIENCE AND ENGINEERING,136,,,,,,
+2723,"Velalar College of Engineering and
+Technology (Autonomous)  Thindal Post Erode District 638012",ME,MECHANICAL ENGINEERING,,167,,,,,
+2725,"Sri Ramakrishna Institute of Technology
+(Autonomous)  Pachapalayam  Coimbatore District 641010",CS,COMPUTER SCIENCE AND ENGINEERING,,,,134.5,,,
+2725,"Sri Ramakrishna Institute of Technology
+(Autonomous)  Pachapalayam  Coimbatore District 641010",IT,INFORMATION TECHNOLOGY,,142.5,,,,,
+2726,SNS College of Technology (Autonomous) Kalappatti Post  Coimbatore District 641035,CS,COMPUTER SCIENCE AND ENGINEERING,178.5,,,,,,
+2726,SNS College of Technology (Autonomous) Kalappatti Post  Coimbatore District 641035,ME,MECHANICAL ENGINEERING,139,,,,,,
+2727,"Sri Shakthi Institute of Engineering and Technology (Autonomous)  L&T Bye-Pass Venkitapuram Post  Comibatore District
+641062",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,146.5,,,,,
+2729,"Nehru Institute of Engineering and Technology  Thirumalayampalayam Post
+Coimbatore District 641105",AE,AERONAUTICAL ENGINEERING,,,,,162.5,,
+2729,"Nehru Institute of Engineering and
+Technology  Thirumalayampalayam Post Coimbatore District 641105",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,148,,,,,
+2731,"R V S College of Engineering and Technology Kannampalayam  Sulur  Coimbatore District
+641402",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,164.5,,,,,,
+2731,"R V S College of Engineering and Technology Kannampalayam  Sulur  Coimbatore District
+641402",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,130.5,,,
+2732,"Info Institute of Engineering  Sarkar
+Samakulam  Coimbatore District 641107",ME,MECHANICAL ENGINEERING,,,,,145,,
+2734,"SNS College of Engineering (Autonomous) Sathy Main Road  Kurumbapalayam Post
+Coimbatore District 641107",TS,Computer Science and Technology,159,,,,,,
+2735,"Karpagam Institute of Technology Seerapalayam Village  L&T By pass Road
+Coimbatore District 641021",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",128,,,,,,
+2735,"Karpagam Institute of Technology
+Seerapalayam Village  L&T By pass Road Coimbatore District 641021",IT,INFORMATION TECHNOLOGY,133,,,,,,
+2735,"Karpagam Institute of Technology
+Seerapalayam Village  L&T By pass Road Coimbatore District 641021",ME,MECHANICAL ENGINEERING,,153,,,,,
+2736,"Dr. N G P Institute of Technology
+(Autonomous) Kalapatti Road  Coimbatore District 641035",ME,MECHANICAL ENGINEERING,134.5,,,,,,
+2739,"Sri Eshwar College of Engineering (Autonomous)  Kondampatti Post  Vadasithur (Via)  Kinathukadavu  Coimbatore District
+641202",CS,COMPUTER SCIENCE AND ENGINEERING,156.5,,,,,,
+2739,"Sri Eshwar College of Engineering (Autonomous)  Kondampatti Post  Vadasithur (Via)  Kinathukadavu  Coimbatore District
+641202",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,164.5,,,,,,
+2739,"Sri Eshwar College of Engineering (Autonomous)  Kondampatti Post  Vadasithur (Via)  Kinathukadavu  Coimbatore District
+641202",IT,INFORMATION TECHNOLOGY,164.5,,,,,,
+2741,"P A College of Engineering and Technology (Autonomous)  Palladam Road  Pollachi
+Coimbatore District 642002",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",122.2,,,,,,
+2743,"Dhanalakshmi Srinivasan College of Engineering (CBE)  NH47  Palakkad Main Road  Navakkarai Post  Near Nandhi Temple
+Coimbatore District 641105",BM,BIO MEDICAL ENGINEERING,,125.5,,,,,
+2743,"Dhanalakshmi Srinivasan College of Engineering (CBE)  NH47  Palakkad Main Road  Navakkarai Post  Near Nandhi Temple
+Coimbatore District 641105",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,125,,,,,,
+2744,"Adithya Institute of Technology
+Kurumbapalayam Village  Coimbatore District 641107",CS,COMPUTER SCIENCE AND ENGINEERING,152.5,,,,,,
+2745,"Kathir College of Engineering  Neelambur
+Avinashi Road  Coimbatore District 641062",AD,"ARTIFICIAL INTELLIGENCE AND
+DATA SCIENCE",,,,,147,,
+2745,"Kathir College of Engineering  Neelambur
+Avinashi Road  Coimbatore District 641062",CS,"COMPUTER SCIENCE AND
+ENGINEERING",157.4,,,,,,
+2747,"Shree Venkateshwara Hi-Tech Engineering College (Autonomous) Othakuthirai  K Mettupalayam Post  Gobichettipalayam
+Erode District 638455",CS,COMPUTER SCIENCE AND ENGINEERING,147,,,,,,
+2747,"Shree Venkateshwara Hi-Tech Engineering College (Autonomous) Othakuthirai  K Mettupalayam Post  Gobichettipalayam
+Erode District 638455",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,124.5,,,,,,
+2747,"Shree Venkateshwara Hi-Tech Engineering College (Autonomous) Othakuthirai  K Mettupalayam Post  Gobichettipalayam
+Erode District 638455",ME,MECHANICAL ENGINEERING,,,,,,114.5,
+2748,"Surya Engineering College  Mettukadai
+Kathirampatti Post  Erode District 638107",CE,CIVIL  ENGINEERING,,,,125.5,,,
+2748,"Surya Engineering College  Mettukadai
+Kathirampatti Post  Erode District 638107",CS,"COMPUTER SCIENCE AND
+ENGINEERING",157.5,,,,,,
+2748,Surya Engineering College  Mettukadai Kathirampatti Post  Erode District 638107,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,150.5,,,,,
+2748,"Surya Engineering College  Mettukadai
+Kathirampatti Post  Erode District 638107",SC,"Computer Science and
+Engineering (Cyber Security)",,117,,,,,
+2749,Easa College of Engineering and Technology NH-47  Coimbatore-Palakkad Main Road Navakarai Post  Coimbatore District 641105,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,129,,,,,,
+2749,Easa College of Engineering and Technology NH-47  Coimbatore-Palakkad Main Road Navakarai Post  Coimbatore District 641105,IT,INFORMATION TECHNOLOGY,,,,142.5,,,
+2750,KIT - Kalaignar Karunanidhi Institute of Technology (Autonomous)  Kannampalayam Coimbatore District 641402,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,,,,122.5,,
+2750,KIT - Kalaignar Karunanidhi Institute of Technology (Autonomous)  Kannampalayam Coimbatore District 641402,AE,AERONAUTICAL ENGINEERING,124.5,,,,,,
+2750,KIT - Kalaignar Karunanidhi Institute of Technology (Autonomous)  Kannampalayam Coimbatore District 641402,AG,AGRICULTURAL ENGINEERING,120,,,,,,
+2750,KIT - Kalaignar Karunanidhi Institute of Technology (Autonomous)  Kannampalayam Coimbatore District 641402,AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",,,,148.5,,,
+2750,KIT - Kalaignar Karunanidhi Institute of Technology (Autonomous)  Kannampalayam Coimbatore District 641402,BT,BIO TECHNOLOGY,,117,,,,,
+2750,KIT - Kalaignar Karunanidhi Institute of Technology (Autonomous)  Kannampalayam Coimbatore District 641402,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,140.5,,,,,
+2750,KIT - Kalaignar Karunanidhi Institute of Technology (Autonomous)  Kannampalayam Coimbatore District 641402,ME,MECHANICAL ENGINEERING,,,,,150.5,,
+2751,"KGISL Institute of Technology  KGISL Campus Thudiyalur Road  Saravanampatti
+Coimbatore District 641035",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,138.5,,,,,,
+2751,"KGISL Institute of Technology  KGISL Campus Thudiyalur Road  Saravanampatti
+Coimbatore District 641035",ME,MECHANICAL ENGINEERING,,,,151,,,
+2753,"PPG Institute of Technology  Vilankurichi
+Village  Coimbatore District 641035",IT,INFORMATION TECHNOLOGY,,150.5,,,,,
+2755,"Nehru Institute of Technology  (Autonomous) Thirumalayampalayam Post  Coimbatore
+District 641105",AG,AGRICULTURAL ENGINEERING,,,,115,,,
+2761,"United Institute of Technology  Gadalore Village  Perianaickenpalayam  Coimbatore
+District 641020",CS,COMPUTER SCIENCE AND ENGINEERING,,143.5,,,,,
+2763,"Akshaya College of Engineering and
+Technology  Kinathukadavu  Coimbatore District 642109",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,138.5,,,,,
+2764,K P R Institute of Engineering and Technology (Autonomous)  Kollupalayam Village  Arasur Panchayat  Coimbatore District 641407,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,147.5,,,,,
+2764,K P R Institute of Engineering and Technology (Autonomous)  Kollupalayam Village  Arasur Panchayat  Coimbatore District 641407,CE,CIVIL  ENGINEERING,142,,,,,,
+2764,K P R Institute of Engineering and Technology (Autonomous)  Kollupalayam Village  Arasur Panchayat  Coimbatore District 641407,CS,COMPUTER SCIENCE AND ENGINEERING,170,141.5,,,,,
+2764,K P R Institute of Engineering and Technology (Autonomous)  Kollupalayam Village  Arasur Panchayat  Coimbatore District 641407,IT,INFORMATION TECHNOLOGY,,,,,157.5,,
+2764,K P R Institute of Engineering and Technology (Autonomous)  Kollupalayam Village  Arasur Panchayat  Coimbatore District 641407,MZ,Mechatronics Engineering,173,,,,,,
+2769,J C T College of Engineering and Technology Pichanur  Coimbatore District 641105,PC,PETRO CHEMICAL TECHNOLOGY,118.5,,,,,,
+2770,Studyworld College of Engineering Madukarai Post  Coimbatore - 641 105.,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",123.5,,,,,,
+2776,R V S Technical Campus-Coimbatore Kumaran Kottam Campus   Kannampalayam Sulur  Coimbatore District 641 402,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,,,,153.5,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,AU,AUTOMOBILE ENGINEERING,123.5,,,,,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,CE,CIVIL  ENGINEERING,132,,,,,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,CS,COMPUTER SCIENCE AND ENGINEERING,127,,,,,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,165.5,143.5,,,,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,IT,INFORMATION TECHNOLOGY,,156,,135,,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,ME,MECHANICAL ENGINEERING,149,,,134.5,,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,PC,PETRO CHEMICAL TECHNOLOGY,,117,,,,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,XC,CIVIL ENGINEERING (TAMIL MEDIUM),148.2,,,,,,
+3011,University College of Engineering Tiruchirappalli  (Bharathidasan Institute of Technology)  Tiruchirappalli District 620024,XM,MECHANICAL ENGINEERING (TAMIL MEDIUM),129,,,,,,
+3016,"University College of Engineering  Ariyalur Kathankudikadu Village  Thelur Post  Ariyalur
+District 621704",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,,141.5,,
+3018,"University College of Engineering Thirukkuvalai  Nagappattinam District
+610204",CE,CIVIL  ENGINEERING,,139,,,,,
+3018,"University College of Engineering Thirukkuvalai  Nagappattinam District
+610204",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,151,,,,,
+3018,"University College of Engineering Thirukkuvalai  Nagappattinam District
+610204",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,148.5,,,,,,
+3018,"University College of Engineering Thirukkuvalai  Nagappattinam District
+610204",XM,MECHANICAL ENGINEERING (TAMIL MEDIUM),,,,,137.5,,
+3019,"University College of Engineering  Panruti Chennai-Kumbakonam Highway Panikkankuppam  Panruti  Cuddalore District
+607106",CE,CIVIL  ENGINEERING,118.5,,,,,,
+3019,"University College of Engineering  Panruti Chennai-Kumbakonam Highway Panikkankuppam  Panruti  Cuddalore District
+607106",CS,COMPUTER SCIENCE AND ENGINEERING,,135.5,,,,,
+3019,"University College of Engineering  Panruti Chennai-Kumbakonam Highway Panikkankuppam  Panruti  Cuddalore District
+607106",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,150.5,,,,,,
+3019,"University College of Engineering  Panruti Chennai-Kumbakonam Highway Panikkankuppam  Panruti  Cuddalore District
+607106",XC,CIVIL ENGINEERING (TAMIL MEDIUM),,,,,126,,
+3021,University College of Engineering Pattukkottai  ECR Road  Rajamadam Pattukkottai Taluk  Thanjavur District 614701,ME,MECHANICAL ENGINEERING,128.5,,,,,,
+3410,"Krishnasamy College of Engineering and
+Technology  S Kumarapuram  Cuddalore District 607109",CE,CIVIL  ENGINEERING,99.5,,,,,,
+3410,"Krishnasamy College of Engineering and
+Technology  S Kumarapuram  Cuddalore District 607109",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,116,,,
+3410,"Krishnasamy College of Engineering and
+Technology  S Kumarapuram  Cuddalore District 607109",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,150.5,,,,,,
+3410,"Krishnasamy College of Engineering and Technology  S Kumarapuram  Cuddalore
+District 607109",ME,MECHANICAL ENGINEERING,,,,,136.5,,
+3425,C K College of Engineering and Technology Chellangkuppam  Cuddalore District 607003,CS,COMPUTER SCIENCE AND ENGINEERING,127,,,,,,
+3425,C K College of Engineering and Technology Chellangkuppam  Cuddalore District 607003,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,124.5,,,,,,
+3425,C K College of Engineering and Technology Chellangkuppam  Cuddalore District 607003,ME,MECHANICAL ENGINEERING,,,,,132,,
+3454,"Sri Ramakrishna College of Engineering  Sri Saradha Nagar  NH-45  Perambalur District
+621113",AG,AGRICULTURAL ENGINEERING,,,,170.5,,,
+3456,K S K College of Engineering and Technology Thanjavur Main Road  Darasuram Kumbakonam  Thanjavur District 612702,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,,,,153.5,,
+3456,K S K College of Engineering and Technology Thanjavur Main Road  Darasuram Kumbakonam  Thanjavur District 612702,CS,COMPUTER SCIENCE AND ENGINEERING,,,,138,,,
+3456,K S K College of Engineering and Technology Thanjavur Main Road  Darasuram Kumbakonam  Thanjavur District 612702,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,168.5,,,,,,
+3456,K S K College of Engineering and Technology Thanjavur Main Road  Darasuram Kumbakonam  Thanjavur District 612702,ME,MECHANICAL ENGINEERING,,114.5,,,,,
+3461,"Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College)  Esanoor Keelaiyur Post  Thirukkuvalai Taluk
+Nagapattinam District 611103",CS,COMPUTER SCIENCE AND ENGINEERING,,117,,,,,
+3461,"Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College)  Esanoor Keelaiyur Post  Thirukkuvalai Taluk
+Nagapattinam District 611103",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,132.5,,,
+3461,"Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College)  Esanoor Keelaiyur Post  Thirukkuvalai Taluk
+Nagapattinam District 611103",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,117.5,,,,,,
+3461,"Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College)  Esanoor Keelaiyur Post  Thirukkuvalai Taluk
+Nagapattinam District 611103",ME,MECHANICAL ENGINEERING,,,,,149.5,,
+3462,"Ariyalur Engineering College  NH-227  Trichy-
+Chithambaram NH  Karuppur-Senapathy Post Ariyalur District 621707",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,124.5,,,,,,
+3462,"Ariyalur Engineering College  NH-227  Trichy-
+Chithambaram NH  Karuppur-Senapathy Post Ariyalur District 621707",ME,MECHANICAL ENGINEERING,136,,,,,,
+3464,"Government College of Engineering
+Gandarvakottai Road  Sengipatti  Thanjavur District 613402",CS,COMPUTER SCIENCE AND ENGINEERING,,,,114.5,,,
+3464,"Government College of Engineering Gandarvakottai Road  Sengipatti  Thanjavur
+District 613402",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",148.5,140.5,,,,,
+3464,"Government College of Engineering Gandarvakottai Road  Sengipatti  Thanjavur
+District 613402",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,123.5,,,,
+3464,"Government College of Engineering Gandarvakottai Road  Sengipatti  Thanjavur
+District 613402",ME,MECHANICAL ENGINEERING,157.5,,,,,,
+3465,"Government College of Engineering
+Srirangam  Sethurappatti  Tiruchirappalli District 620012",CS,COMPUTER SCIENCE AND ENGINEERING,158.5,,,,,,
+3465,"Government College of Engineering Srirangam  Sethurappatti  Tiruchirappalli
+District 620012",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,164,,,
+3465,"Government College of Engineering Srirangam  Sethurappatti  Tiruchirappalli
+District 620012",ME,MECHANICAL ENGINEERING,145,142.5,,,,,
+3466,"Nelliandavar Institute of Technology Nerunjikorai Village  Pudhupalayam  Ariyalur
+Taluk  Ariyalur District 621704",CS,COMPUTER SCIENCE AND ENGINEERING,130.5,,,,,,
+3701,"K Ramakrishnan College of Technology (Autonomous)  Kariyamanickam Road Samayapuram  Manachanallur Taluk
+Tiruchirappalli District 621112",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,,135.5,,
+3701,"K Ramakrishnan College of Technology (Autonomous)  Kariyamanickam Road Samayapuram  Manachanallur Taluk
+Tiruchirappalli District 621112",ME,MECHANICAL ENGINEERING,,135,,,,,
+3760,"Sir Issac Newton College of Engineering and
+Technology  Anthanapeetai Post  Papakoil Nagappattinam District 611102",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,126.5,,,,,
+3760,"Sir Issac Newton College of Engineering and
+Technology  Anthanapeetai Post  Papakoil Nagappattinam District 611102",IT,INFORMATION TECHNOLOGY,122,,,,,,
+3760,"Sir Issac Newton College of Engineering and
+Technology  Anthanapeetai Post  Papakoil Nagappattinam District 611102",ME,MECHANICAL ENGINEERING,,,,123.5,,,
+3782,"OASYS Institute of Technology   Pulivalam Village  Musiri Taluk  Tiruchirappalli District
+621006",CS,COMPUTER SCIENCE AND ENGINEERING,111.5,,,,,,
+3782,"OASYS Institute of Technology   Pulivalam Village  Musiri Taluk  Tiruchirappalli District
+621006",IT,INFORMATION TECHNOLOGY,125,,,,,,
+3795,"SRM TRP Engineering College  Irungalur Manachanallur Taluk  Tiruchirappalli District
+621105",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,138.5,,,,,
+3801,A V C College of Engineering  Mannampandal Post  MayiladuthuraiDistrict 609305,CS,COMPUTER SCIENCE AND ENGINEERING,,,,,109.5,,
+3801,A V C College of Engineering  Mannampandal Post  MayiladuthuraiDistrict 609305,ME,MECHANICAL ENGINEERING,143.5,,,,,,
+3803,"Anjalai Ammal Mahalingam Engineering
+College  Kovilvenni  Thiruvarur District 614403",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,138,,,,,,
+3804,"Arasu Engineering  College  Chennai Main
+Road  Kumbakonam  Thanjavur District 612501",CS,COMPUTER SCIENCE AND ENGINEERING,,138,,,,,
+3804,"Arasu Engineering  College  Chennai Main
+Road  Kumbakonam  Thanjavur District 612501",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,157.5,,,
+3805,"Dhanalakshmi Srinivasan  Engineering College (Autonomous)  Thuraiyur Road
+Perambalur District 621212",CE,CIVIL  ENGINEERING,,,,146.5,,,
+3805,"Dhanalakshmi Srinivasan  Engineering College (Autonomous)  Thuraiyur Road
+Perambalur District 621212",CS,COMPUTER SCIENCE AND ENGINEERING,150.5,,,,,,
+3805,"Dhanalakshmi Srinivasan  Engineering College (Autonomous)  Thuraiyur Road
+Perambalur District 621212",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,113,133.5,,,
+3805,"Dhanalakshmi Srinivasan  Engineering
+College (Autonomous)  Thuraiyur Road Perambalur District 621212",FD,FOOD TECHNOLOGY,118,,,,,,
+3806,"E G S Pillay  Engineering College (Autonomous)  Nagapattinam District
+611002",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,131,,,,,,
+3806,"E G S Pillay  Engineering College (Autonomous)  Nagapattinam District
+611002",BM,BIO MEDICAL ENGINEERING,134.5,,,,,,
+3806,"E G S Pillay  Engineering College (Autonomous)  Nagapattinam District
+611002",CB,COMPUTER SCIENCE AND BUSSINESS SYSTEM,,,,118.5,,,
+3806,"E G S Pillay  Engineering College
+(Autonomous)  Nagapattinam District 611002",CE,CIVIL  ENGINEERING,,146.5,,,,,
+3806,"E G S Pillay  Engineering College
+(Autonomous)  Nagapattinam District 611002",CS,COMPUTER SCIENCE AND ENGINEERING,150.5,,,147,,,
+3806,"E G S Pillay  Engineering College
+(Autonomous)  Nagapattinam District 611002",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",138.5,,,,,,
+3806,"E G S Pillay  Engineering College (Autonomous)  Nagapattinam District
+611002",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,136,,,,,,
+3806,"E G S Pillay  Engineering College (Autonomous)  Nagapattinam District
+611002",IT,INFORMATION TECHNOLOGY,,,,151,142.5,,
+3806,"E G S Pillay  Engineering College (Autonomous)  Nagapattinam District
+611002",ME,MECHANICAL ENGINEERING,,141,,,134,,
+3810,"M.A.M. College of Engineering  Siruganur
+Tiruchirappalli District 621105",CS,"COMPUTER SCIENCE AND
+ENGINEERING",,,,,153.5,,
+3810,M.A.M. College of Engineering  Siruganur Tiruchirappalli District 621105,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",144,,,,,,
+3810,"M.A.M. College of Engineering  Siruganur
+Tiruchirappalli District 621105",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,116,,,,,
+3810,"M.A.M. College of Engineering  Siruganur
+Tiruchirappalli District 621105",ME,MECHANICAL ENGINEERING,,,,145.5,,,
+3812,"Mookambigai College of Engineering
+Keeranur  Pudukkottai District 622502",CS,"COMPUTER SCIENCE AND
+ENGINEERING",107.5,,,,,,
+3815,"Pavendar Bharathidasan College of Engineering and Technology  Pudukkottai
+Main Road  Tiruchirappalli District 622515",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,,118,,
+3815,"Pavendar Bharathidasan College of
+Engineering and Technology  Pudukkottai Main Road  Tiruchirappalli District 622515",IT,INFORMATION TECHNOLOGY,133.5,,,,,,
+3817,"Roever Engineering College  Elambalur
+Perambalur District 621212",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",147.5,,,,,,
+3825,"St. Joseph's College of Engineering and Technology  Elupatti Village  Rawaspatti Post
+Thanjavur District 613403",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,138.5,,,,,,
+3825,"St. Joseph's College of Engineering and
+Technology  Elupatti Village  Rawaspatti Post Thanjavur District 613403",CS,COMPUTER SCIENCE AND ENGINEERING,,147.5,,,,,
+3825,"St. Joseph's College of Engineering and
+Technology  Elupatti Village  Rawaspatti Post Thanjavur District 613403",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",128.5,,,,,,
+3825,"St. Joseph's College of Engineering and
+Technology  Elupatti Village  Rawaspatti Post Thanjavur District 613403",ME,MECHANICAL ENGINEERING,,,,106.5,,,
+3826,"Kongunadu College of Engineering and Technology (Autonomous)  Tholurpatti
+Thottiyam  Tiruchirappalli District 621215",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,134,,,,,
+3826,"Kongunadu College of Engineering and Technology (Autonomous)  Tholurpatti
+Thottiyam  Tiruchirappalli District 621215",BM,BIO MEDICAL ENGINEERING,,,,,124,,
+3826,"Kongunadu College of Engineering and Technology (Autonomous)  Tholurpatti
+Thottiyam  Tiruchirappalli District 621215",CE,CIVIL  ENGINEERING,,125.5,,,,,
+3826,"Kongunadu College of Engineering and
+Technology (Autonomous)  Tholurpatti Thottiyam  Tiruchirappalli District 621215",CS,COMPUTER SCIENCE AND ENGINEERING,,,,146.5,,,
+3826,"Kongunadu College of Engineering and Technology (Autonomous)  Tholurpatti
+Thottiyam  Tiruchirappalli District 621215",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",154,,,,,,
+3826,"Kongunadu College of Engineering and
+Technology (Autonomous)  Tholurpatti Thottiyam  Tiruchirappalli District 621215",IT,INFORMATION TECHNOLOGY,155.5,,,,,,
+3826,"Kongunadu College of Engineering and
+Technology (Autonomous)  Tholurpatti Thottiyam  Tiruchirappalli District 621215",ME,MECHANICAL ENGINEERING,,,,,113,,
+3829,"M.A.M. College of Engineering and
+Technology  Trichy-Chennai Trunk Road Siruganur  Tiruchirappalli District 621105",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",150.5,,,,,,
+3830,"K Ramakrishnan College of Engineering (Autonomous)  Kariyamanickam Road Samayapuram  Manachanallur Taluk
+Tiruchirappalli District 621112",AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",,114,,,,,
+3841,"CARE College of Engineering   Thayanoor Village  Kuttappatti  Srirangam Taluk
+Tiruchirappalli District 620009",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,,,161.5,,,
+3841,"CARE College of Engineering   Thayanoor Village  Kuttappatti  Srirangam Taluk
+Tiruchirappalli District 620009",CE,CIVIL  ENGINEERING,159,,,,,,
+3841,"CARE College of Engineering   Thayanoor Village  Kuttappatti  Srirangam Taluk
+Tiruchirappalli District 620009",CS,COMPUTER SCIENCE AND ENGINEERING,144,,,,,,
+3841,"CARE College of Engineering   Thayanoor
+Village  Kuttappatti  Srirangam Taluk Tiruchirappalli District 620009",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,176.5,,,,,
+3843,"M R K Institute of Technology Nattarmangalam Village  Kattumannarkoil
+Cuddalore District 608306",CE,CIVIL  ENGINEERING,,,,102.5,,,
+3843,"M R K Institute of Technology Nattarmangalam Village  Kattumannarkoil
+Cuddalore District 608306",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",148,,,,,,
+3843,"M R K Institute of Technology
+Nattarmangalam Village  Kattumannarkoil Cuddalore District 608306",IT,INFORMATION TECHNOLOGY,115.5,,,,,,
+3844,"Shivani Engineering College  Trichy-Dindigul
+NH Road  Poolangulathupatti  Tiruchirappalli - 620009",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,133.5,,,,,
+3845,"Imayam College of Engineering  Kannanur
+Thuraiyur  Tiruchirappalli District 621206",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",120.5,,,,,,
+3849,"Annai College of Engineering and Technology
+Anakudi Road  Kovilacheri  Kumbakonam Thanjavur District 612503",CE,CIVIL  ENGINEERING,127.2,,,,,,
+3849,"Annai College of Engineering and Technology
+Anakudi Road  Kovilacheri  Kumbakonam Thanjavur District 612503",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",144,142.5,,,,,
+3849,"Annai College of Engineering and Technology
+Anakudi Road  Kovilacheri  Kumbakonam Thanjavur District 612503",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,147.5,,,,,,
+3855,"As-Salam College of Engineering and Technology  Thirumangalakudi  Aduthurai Thiruvidaimaruthur  Thanjavur District
+612102",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,130.5,,,,,,
+3855,"As-Salam College of Engineering and Technology  Thirumangalakudi  Aduthurai Thiruvidaimaruthur  Thanjavur District
+612102",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,115.5,,,
+3857,"Meenakshi Ramaswamy Engineering College Trichy Main Road   Thathanur
+Udayarpalayam  Ariyalur District 621804",AG,AGRICULTURAL ENGINEERING,145,,,,,,
+3857,"Meenakshi Ramaswamy Engineering College Trichy Main Road   Thathanur
+Udayarpalayam  Ariyalur District 621804",ME,MECHANICAL ENGINEERING,,,,142.5,,,
+3920,"Sudharsan Engineering College
+Sathiyamangalam Post  Pudukkottai District 622501",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",116.5,,,,,,
+3926,"Chendhuran College of Engineering and
+Technology  Madurai Road  Lenavilakku Pilivalam Post  Pudukkottai - 622 507",CE,CIVIL  ENGINEERING,116,,,,,,
+3926,"Chendhuran College of Engineering and
+Technology  Madurai Road  Lenavilakku Pilivalam Post  Pudukkottai - 622 507",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,111,,,,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",AE,AERONAUTICAL ENGINEERING,,165.5,,,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",AT,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS),,187.5,,,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",AU,AUTOMOBILE ENGINEERING,,,,163,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",CM,COMPUTER SCIENCE AND ENGINEERING (SS),,,,,179.5,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",CS,COMPUTER SCIENCE AND ENGINEERING,184,,,,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,185,,170.5,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",EI,ELECTRONICS AND INSTRUMENTATION ENGINEERING,175.5,,,,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",EM,ELECTRONICS AND COMMUNICATION ENGINEERING (SS),,,,167.5,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",IM,INFORMATION TECHNOLOGY (SS),180,177,,,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",PR,PRODUCTION ENGINEERING,181,,,,,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",RA,ROBOTICS AND AUTOMATION (SS),,,,,153,,
+4,"University Departments of Anna University Chennai - MIT Campus  Chrompet Tambaram Taluk  Chengalpattu District 600
+044",RP,RUBBER AND PLASTIC TECHNOLOGY,,,,,130.5,,
+4020,"Anna University Regional Campus - Tirunelveli  Trivandrum Road  Palayamkottai
+Tirunelveli District 627007",GI,GEO INFORMATICS,129.5,,,,,,
+4023,"University College of Engineering  Nagercoil
+Nagercoil Industrial Estate  Konam Kanyakumari District 629004",CS,COMPUTER SCIENCE AND ENGINEERING,164.5,161.5,,141.5,,,
+4023,"University College of Engineering  Nagercoil
+Nagercoil Industrial Estate  Konam Kanyakumari District 629004",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",161.5,,,,,,
+4023,"University College of Engineering  Nagercoil
+Nagercoil Industrial Estate  Konam Kanyakumari District 629004",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,178.5,,,,,
+4023,"University College of Engineering  Nagercoil Nagercoil Industrial Estate  Konam
+Kanyakumari District 629004",IT,INFORMATION TECHNOLOGY,,,,126,,,
+4023,"University College of Engineering  Nagercoil Nagercoil Industrial Estate  Konam
+Kanyakumari District 629004",ME,MECHANICAL ENGINEERING,167.5,,,,,,
+4023,"University College of Engineering  Nagercoil Nagercoil Industrial Estate  Konam
+Kanyakumari District 629004",XM,MECHANICAL ENGINEERING (TAMIL MEDIUM),,138,,,,,
+4024,"University V.O.C. College of Engineering
+Thoothukudi  Near V.O.C. College Millerpuram  Thoothukudi District 628008",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,126.5,,,,,,
+4024,"University V.O.C. College of Engineering Thoothukudi  Near V.O.C. College
+Millerpuram  Thoothukudi District 628008",ME,MECHANICAL ENGINEERING,128,,,,,,
+4669,"Thamirabharani Engineering College Chathirampudukulam Village  Thatchanallur
+Tirunelveli District 627358",CS,COMPUTER SCIENCE AND ENGINEERING,157.5,122.5,,,,,
+4669,"Thamirabharani Engineering College Chathirampudukulam Village  Thatchanallur
+Tirunelveli District 627358",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,127,,,
+4669,"Thamirabharani Engineering College
+Chathirampudukulam Village  Thatchanallur Tirunelveli District 627358",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,162,,,,,,
+4670,"Rohini College of Engineering & Technology Anjugramam-Kanyakumari Main Road Palkulam  Variyoor Post  Kanyakumari
+District 629401",CS,COMPUTER SCIENCE AND ENGINEERING,155.5,,,,,,
+4672,"Stella Mary's College of Engineering Arunthengan Vilai  Azhikal Post  Kanyakumari
+District 629202",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,140,,,,,,
+4672,"Stella Mary's College of Engineering Arunthengan Vilai  Azhikal Post  Kanyakumari
+District 629202",CS,COMPUTER SCIENCE AND ENGINEERING,,158.5,,,,,
+4672,"Stella Mary's College of Engineering Arunthengan Vilai  Azhikal Post  Kanyakumari
+District 629202",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,149.5,,,,,
+4672,"Stella Mary's College of Engineering Arunthengan Vilai  Azhikal Post  Kanyakumari
+District 629202",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,148.5,,,,,,
+4672,"Stella Mary's College of Engineering Arunthengan Vilai  Azhikal Post  Kanyakumari
+District 629202",ME,MECHANICAL ENGINEERING,,,,147,,,
+4675,Universal College of Engineering and Technology  Anbagam Campus  Radhapuram Road  Vallioor  Tirunelveli District 627117,CB,COMPUTER SCIENCE AND BUSSINESS SYSTEM,137.5,,,,,,
+4675,Universal College of Engineering and Technology  Anbagam Campus  Radhapuram Road  Vallioor  Tirunelveli District 627117,CE,CIVIL  ENGINEERING,,,,,124.5,,
+4675,Universal College of Engineering and Technology  Anbagam Campus  Radhapuram Road  Vallioor  Tirunelveli District 627117,CS,COMPUTER SCIENCE AND ENGINEERING,125.5,,,,,,
+4675,Universal College of Engineering and Technology  Anbagam Campus  Radhapuram Road  Vallioor  Tirunelveli District 627117,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,122.5,,,,,
+4675,Universal College of Engineering and Technology  Anbagam Campus  Radhapuram Road  Vallioor  Tirunelveli District 627117,ME,MECHANICAL ENGINEERING,,133.5,,,,,
+4676,"Renganayagi Varatharaj College of Engineering  Salvarpatti  Sivakasi
+Virudhunagar District 626128",CS,COMPUTER SCIENCE AND ENGINEERING,,154.5,,,,,
+4677,"Lourdes Mount College of Engineering and Technology  Marthandam-Karungal Road Chundavilai  Mullanganavilai  Nattalam Post
+Kanyakumari District 629195",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,144,,,,,
+4678,Ramco Institute of Technology  North venganallur Village  Krishnapuram Panchayat Rajapalayam  Virudhunagar District 626117,CE,CIVIL  ENGINEERING,,149,,,,,
+4678,Ramco Institute of Technology  North venganallur Village  Krishnapuram Panchayat Rajapalayam  Virudhunagar District 626117,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,133.5,,,,,,
+4686,"Good Shepherd College of Engineering and Technology  Maruthamparai  Kanyakumari
+District 629101",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,146.5,,,,,,
+4686,"Good Shepherd College of Engineering and
+Technology  Maruthamparai  Kanyakumari District 629101",CS,COMPUTER SCIENCE AND ENGINEERING,,137.5,,,,,
+4864,"V V College of Engineering  Arasoor Village
+Idaichivilai Post  Santhakulam Taluk Thoothukudi District 628656",CE,CIVIL  ENGINEERING,143,,,,,,
+4864,"V V College of Engineering  Arasoor Village
+Idaichivilai Post  Santhakulam Taluk Thoothukudi District 628656",CS,COMPUTER SCIENCE AND ENGINEERING,,141.5,,,,,
+4864,"V V College of Engineering  Arasoor Village Idaichivilai Post  Santhakulam Taluk
+Thoothukudi District 628656",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,147.5,,,,,
+4864,"V V College of Engineering  Arasoor Village Idaichivilai Post  Santhakulam Taluk
+Thoothukudi District 628656",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,150,,,,,,
+4917,Sethu Institute of Technology (Autonomous) Kariapatti Post  Virudhunagar District 626115,CB,COMPUTER SCIENCE AND BUSSINESS SYSTEM,105.5,,,,,,
+4917,Sethu Institute of Technology (Autonomous) Kariapatti Post  Virudhunagar District 626115,CD,COMPUTER SCIENCE AND DESIGN,96,,,,,,
+4917,Sethu Institute of Technology (Autonomous) Kariapatti Post  Virudhunagar District 626115,CS,COMPUTER SCIENCE AND ENGINEERING,,153.5,,,,,
+4917,Sethu Institute of Technology (Autonomous) Kariapatti Post  Virudhunagar District 626115,ME,MECHANICAL ENGINEERING,,,,147,,,
+4927,Maria College of Engineering and Technology Attoor Puliyamoodu Junction  Thiruvattar Post  Kanyakumari District 629177,CS,COMPUTER SCIENCE AND ENGINEERING,138.5,,,,,,
+4927,Maria College of Engineering and Technology Attoor Puliyamoodu Junction  Thiruvattar Post  Kanyakumari District 629177,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,125,,,,,
+4928,"MAR Ephraem College of Engineering & Technology  Malankara Hills  Elavuvillai
+Marthandam  Kanyakumari District 629171",CS,COMPUTER SCIENCE AND ENGINEERING,128.5,,,,,,
+4928,"MAR Ephraem College of Engineering & Technology  Malankara Hills  Elavuvillai
+Marthandam  Kanyakumari District 629171",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,166,,,,,
+4928,"MAR Ephraem College of Engineering & Technology  Malankara Hills  Elavuvillai
+Marthandam  Kanyakumari District 629171",ME,MECHANICAL ENGINEERING,153.5,,,,,,
+4931,Grace College of Engineering  Chandy Nagar Mullakkadu  Thoothukudi District 628005,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,147,,,,,,
+4933,"St. Mother Theresa Engineering College
+Vagaikulam  Thoothukudi District 628102",CS,"COMPUTER SCIENCE AND
+ENGINEERING",153,,,,131.5,,
+4933,St. Mother Theresa Engineering College Vagaikulam  Thoothukudi District 628102,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",134.5,,,,,,
+4933,"St. Mother Theresa Engineering College
+Vagaikulam  Thoothukudi District 628102",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,130.5,,,,,
+4934,"Holy Cross Engineering College  Vagaikulam Sri Mulakarai  Srivaikuntam   Thoothukudi
+District 628851",CS,COMPUTER SCIENCE AND ENGINEERING,125,,,,,,
+4934,"Holy Cross Engineering College  Vagaikulam
+Sri Mulakarai  Srivaikuntam   Thoothukudi District 628851",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",165,,,,,,
+4934,"Holy Cross Engineering College  Vagaikulam Sri Mulakarai  Srivaikuntam   Thoothukudi
+District 628851",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,144,,,,,
+4938,"Sivaji College of Engineering and Technology
+Manivilla Palulai Panchayat  Vilavancode Kanyakumari District 629171",CS,COMPUTER SCIENCE AND ENGINEERING,127,,,,,,
+4941,Unnamalai Institute of Technology  Ayyaneri Kovilpatti  Thoothukudi District 628502,CS,COMPUTER SCIENCE AND ENGINEERING,184.5,,,,,,
+4941,Unnamalai Institute of Technology  Ayyaneri Kovilpatti  Thoothukudi District 628502,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,136.5,,,
+4941,Unnamalai Institute of Technology  Ayyaneri Kovilpatti  Thoothukudi District 628502,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,124.5,,,,,,
+4941,Unnamalai Institute of Technology  Ayyaneri Kovilpatti  Thoothukudi District 628502,ME,MECHANICAL ENGINEERING,,122.5,,,,,
+4946,"D M I Engineering College  Aralvaimozhi Village  Thovalai  Kanyakumari District
+629301",CS,COMPUTER SCIENCE AND ENGINEERING,,,,,130.5,,
+4949,"PSN Institute of Technology and Science
+Melathediyoor  Tirunelveli-627 152",IN,"INDUSTRIAL ENGINEERING
+AND MANAGEMENT",143,,,,,,
+4949,"PSN Institute of Technology and Science
+Melathediyoor  Tirunelveli-627 152",MU,"MECHANICAL AND
+AUTOMATION ENGINEERING",108.5,,,,,,
+4949,"PSN Institute of Technology and Science
+Melathediyoor  Tirunelveli-627 152",MZ,Mechatronics Engineering,,,,107.5,,,
+4952,"C S I Institute of Technology  Thovalai
+Kanyakumari District 629302",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",125.5,,,,,,
+4953,"CAPE Institute of Technology  Levingipuram
+Tirunelveli District 627114",CS,"COMPUTER SCIENCE AND
+ENGINEERING",119.3,,,,,,
+4953,CAPE Institute of Technology  Levingipuram Tirunelveli District 627114,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",144.5,,,,,,
+4955,"Francis Xavier Engineering College
+(Autonomous)  Vannarpettai  Tirunelveli District 627003",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,136.5,,,,,,
+4955,"Francis Xavier Engineering College
+(Autonomous)  Vannarpettai  Tirunelveli District 627003",CS,COMPUTER SCIENCE AND ENGINEERING,,148,,,,,
+4955,"Francis Xavier Engineering College
+(Autonomous)  Vannarpettai  Tirunelveli District 627003",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,153.56,,,
+4955,"Francis Xavier Engineering College (Autonomous)  Vannarpettai  Tirunelveli
+District 627003",ME,MECHANICAL ENGINEERING,147.5,,,,,,
+4956,"Jayamatha Engineering College  Aralvaimozhi
+Kanyakumari District",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",151.5,,,,,,
+4956,"Jayamatha Engineering College  Aralvaimozhi
+Kanyakumari District",ME,MECHANICAL ENGINEERING,,134.5,,,,,
+4957,"Jayaraj Annapackiam CSI College of Engineering  Nazareth  Thoothukudi District
+628617",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",118.5,,,,,,
+4957,"Jayaraj Annapackiam CSI College of Engineering  Nazareth  Thoothukudi District
+628617",ME,MECHANICAL ENGINEERING,,148,,,,,
+4959,"Kamaraj College of Engineering and
+Technology (Autonomous)  Virudhunagar District 626001",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,154,,,,,
+4960,"Mepco Schlenk Engineering College (Autonomous)   Sivakasi  Virudhunagar
+District 626005",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,149,,,,,,
+4960,"Mepco Schlenk Engineering College (Autonomous)   Sivakasi  Virudhunagar
+District 626005",IT,INFORMATION TECHNOLOGY,154,,,,,,
+4961,"Nellai College of Engineering, Maruthakulam Post  Tirunelveli District 627151",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,139.5,,,,,,
+4962,National  Engineering College (Autonomous) Kovilpatti  Thoothukudi District 628503,CS,COMPUTER SCIENCE AND ENGINEERING,134,,,,,,
+4962,National  Engineering College (Autonomous) Kovilpatti  Thoothukudi District 628503,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,129.5,,,,,
+4962,National  Engineering College (Autonomous) Kovilpatti  Thoothukudi District 628503,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,125.5,,,,,
+4962,National  Engineering College (Autonomous) Kovilpatti  Thoothukudi District 628503,IT,INFORMATION TECHNOLOGY,132.5,,,,,,
+4964,"PSN College of Engineering and  Technology (Autonomous) Melathediyoor  Tirunelveli-
+627 152",AE,AERONAUTICAL ENGINEERING,,137.5,,,,,
+4964,"PSN College of Engineering and  Technology
+(Autonomous) Melathediyoor  Tirunelveli- 627 152",CS,COMPUTER SCIENCE AND ENGINEERING,,134.5,,,,,
+4964,"PSN College of Engineering and  Technology (Autonomous) Melathediyoor  Tirunelveli-
+627 152",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",136.8,,,,,,
+4964,"PSN College of Engineering and  Technology (Autonomous) Melathediyoor  Tirunelveli-
+627 152",ME,MECHANICAL ENGINEERING,146,,,,,,
+4965,"P S R  Engineering College (Autonomous) Appayanaickenpatti  Sevalpatty
+Virudhunagar District 626140",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,153.5,,,,,
+4965,"P S R  Engineering College (Autonomous)
+Appayanaickenpatti  Sevalpatty Virudhunagar District 626140",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,153.5,,,
+4965,"P S R  Engineering College (Autonomous)
+Appayanaickenpatti  Sevalpatty Virudhunagar District 626140",ME,MECHANICAL ENGINEERING,140,,,,,,
+4966,PET Engineering College  Vallioor Post Tirunelveli District 627117,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,150.5,,,,,
+4966,"PET Engineering College  Vallioor Post
+Tirunelveli District 627117",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",150.5,,,,,,
+4966,"PET Engineering College  Vallioor Post
+Tirunelveli District 627117",ME,MECHANICAL ENGINEERING,142.5,,,,,,
+4968,"Sardar Raja College of Engineering
+Alangulam  Tenkasi District 627808",AD,"ARTIFICIAL INTELLIGENCE AND
+DATA SCIENCE",,153.5,,,,,
+4968,"Sardar Raja College of Engineering
+Alangulam  Tenkasi District 627808",CS,"COMPUTER SCIENCE AND
+ENGINEERING",152,,,,,,
+4968,"Sardar Raja College of Engineering
+Alangulam  Tenkasi District 627808",ME,MECHANICAL ENGINEERING,140,,,,,,
+4969,SCAD College of Engineering and Technology Cheranmahadevi  Tirunelveli District 627414,CS,COMPUTER SCIENCE AND ENGINEERING,151.5,,,149,,,
+4969,SCAD College of Engineering and Technology Cheranmahadevi  Tirunelveli District 627414,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,146.5,,,,,
+4969,SCAD College of Engineering and Technology Cheranmahadevi  Tirunelveli District 627414,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,141,,,,,
+4970,"Sree Sowdambika  College of Engineering Aruppukkottai Taluk  Virudhunagar District
+626134",CS,COMPUTER SCIENCE AND ENGINEERING,,164.5,,,,,
+4970,"Sree Sowdambika  College of Engineering
+Aruppukkottai Taluk  Virudhunagar District 626134",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",157.5,,,,,,
+4970,"Sree Sowdambika  College of Engineering
+Aruppukkottai Taluk  Virudhunagar District 626134",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,148,,,,,
+4971,"St. Xavier's Catholic College of Engineering
+(Autonomous)  Chunkankadai  Nagercoil Kanyakumari District 629807",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,140,,,,,
+4971,"St. Xavier's Catholic College of Engineering (Autonomous)  Chunkankadai  Nagercoil
+Kanyakumari District 629807",CS,COMPUTER SCIENCE AND ENGINEERING,167.5,,,,,,
+4971,"St. Xavier's Catholic College of Engineering (Autonomous)  Chunkankadai  Nagercoil
+Kanyakumari District 629807",IT,INFORMATION TECHNOLOGY,154.5,,,,,,
+4971,"St. Xavier's Catholic College of Engineering (Autonomous)  Chunkankadai  Nagercoil
+Kanyakumari District 629807",ME,MECHANICAL ENGINEERING,,,,134.5,,,
+4972,"AMRITA  College of Engineering and
+Technology  Erachakulam Post  Kanyakumari District 629902",CS,COMPUTER SCIENCE AND ENGINEERING,155,,,,,,
+4972,"AMRITA  College of Engineering and Technology  Erachakulam Post  Kanyakumari
+District 629902",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",143.5,,,,138,,
+4972,"AMRITA  College of Engineering and Technology  Erachakulam Post  Kanyakumari
+District 629902",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,168.5,,,,,
+4974,"Government College of Engineering
+Tirunelveli District 627007",CE,CIVIL  ENGINEERING,164,,,,,,
+4974,"Government College of Engineering
+Tirunelveli District 627007",CS,"COMPUTER SCIENCE AND
+ENGINEERING",159.5,,,,,,
+4974,Government College of Engineering Tirunelveli District 627007,EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,169.5,157,,
+4974,"Government College of Engineering
+Tirunelveli District 627007",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,,,157,,,
+4974,"Government College of Engineering
+Tirunelveli District 627007",ME,MECHANICAL ENGINEERING,,161.5,,,,,110
+4976,"Infant Jesus College of Engineering Thoothukudi Highway (NH7/A)  Thoothukudi
+District 628851",ME,MECHANICAL ENGINEERING,155.5,,,,,,
+4977,Narayanaguru College of Engineering Manjalumoodu  Kanyakumari District 629151,AU,AUTOMOBILE ENGINEERING,137,,,,,,
+4977,Narayanaguru College of Engineering Manjalumoodu  Kanyakumari District 629151,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,127.5,,,,,
+4978,Udaya School of Engineering  Ammandivilai Post  Kanyakumari District 629204,AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",,,,,94,,
+4978,Udaya School of Engineering  Ammandivilai Post  Kanyakumari District 629204,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",140,,,,,,
+4978,Udaya School of Engineering  Ammandivilai Post  Kanyakumari District 629204,ME,MECHANICAL ENGINEERING,144.5,128.5,,,,,
+4978,Udaya School of Engineering  Ammandivilai Post  Kanyakumari District 629204,SC,Computer Science and Engineering (Cyber Security),111,,,,,,
+4980,"Einstein College of Engineering Seethaparpanallur  Tirunelveli District
+627012",CS,COMPUTER SCIENCE AND ENGINEERING,,169,,,,,
+4980,"Einstein College of Engineering
+Seethaparpanallur  Tirunelveli District 627012",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,155.5,,,,,,
+4981,"Ponjesly College of  Engineering
+Vettornimadam Post  Nagercoil Kanyakumari District 629003",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,152,,,,,,
+4981,"Ponjesly College of  Engineering
+Vettornimadam Post  Nagercoil Kanyakumari District 629003",CS,COMPUTER SCIENCE AND ENGINEERING,,155.5,,,,,
+4981,"Ponjesly College of  Engineering Vettornimadam Post  Nagercoil
+Kanyakumari District 629003",IT,INFORMATION TECHNOLOGY,,,,132,,,
+4982,"Vins Christian College of Engineering Chunkankadai Post  Nagercoil  Kanyakumari
+District  629807",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,144.5,,,,,,
+4982,"Vins Christian College of Engineering Chunkankadai Post  Nagercoil  Kanyakumari
+District  629807",ME,MECHANICAL ENGINEERING,,144.5,,,,,
+4983,"Lord Jegannath College of Engineering and
+Technology  Kumarapuram  Thoppur Post Kanyakumari District 629402",CS,COMPUTER SCIENCE AND ENGINEERING,,125,,,,,
+4983,"Lord Jegannath College of Engineering and Technology  Kumarapuram  Thoppur Post
+Kanyakumari District 629402",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,136.5,,,,,,
+4983,"Lord Jegannath College of Engineering and Technology  Kumarapuram  Thoppur Post
+Kanyakumari District 629402",ME,MECHANICAL ENGINEERING,131.5,,,,,,
+4984,"Marthandam College of Engineering & Technology  Kuttakuzhi  Veeyanoor Post
+Kanyakumari District 629177",CS,COMPUTER SCIENCE AND ENGINEERING,,,,143,,,
+4984,"Marthandam College of Engineering &
+Technology  Kuttakuzhi  Veeyanoor Post Kanyakumari District 629177",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,131,,,,,,
+4984,"Marthandam College of Engineering &
+Technology  Kuttakuzhi  Veeyanoor Post Kanyakumari District 629177",IT,INFORMATION TECHNOLOGY,,158,,,,,
+4986,"Noorul Islam College of Engineering and
+Technology, No.10/47, Haji Manzil Main Road, Thuckalay, Kanyakumari 629175",IT,INFORMATION TECHNOLOGY,136,,,,,,
+4989,PSN Engineering College  Melathediyoor Tirunelveli District 627152,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",121.5,119.5,,,,,
+4989,"PSN Engineering College  Melathediyoor
+Tirunelveli District 627152",IT,INFORMATION TECHNOLOGY,,153,,,,,
+4989,"PSN Engineering College  Melathediyoor
+Tirunelveli District 627152",MU,"MECHANICAL AND
+AUTOMATION ENGINEERING",,,,,123,,
+4992,"Bethlahem Institute of Engineering  Karungal
+Kanyakumari District 629157",CS,"COMPUTER SCIENCE AND
+ENGINEERING",143.5,,,,,,
+4992,"Bethlahem Institute of Engineering  Karungal
+Kanyakumari District 629157",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,161,,,,,
+4993,Loyola Institute of Technology and Science Loyola Nagar   P B No.2  Thovalai Kanyakumari District 629302,AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",,143.5,,,,,
+4993,"Loyola Institute of Technology and Science Loyola Nagar   P B No.2  Thovalai
+Kanyakumari District 629302",BM,BIO MEDICAL ENGINEERING,151.5,,,,,,
+4993,"Loyola Institute of Technology and Science Loyola Nagar   P B No.2  Thovalai
+Kanyakumari District 629302",CS,COMPUTER SCIENCE AND ENGINEERING,142.5,,,,,,
+4993,"Loyola Institute of Technology and Science
+Loyola Nagar   P B No.2  Thovalai Kanyakumari District 629302",IT,INFORMATION TECHNOLOGY,,138,,,,,
+4994,"J P College of Engineering  College Road
+Ayakudy  Tenkasi Taluk  Tenkasi District 627852",CE,CIVIL  ENGINEERING,130,,,,,,
+4994,"J P College of Engineering  College Road
+Ayakudy  Tenkasi Taluk  Tenkasi District 627852",CS,COMPUTER SCIENCE AND ENGINEERING,,,,,133.5,,
+4994,"J P College of Engineering  College Road Ayakudy  Tenkasi Taluk  Tenkasi District
+627852",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,141.5,,,,,
+4994,"J P College of Engineering  College Road Ayakudy  Tenkasi Taluk  Tenkasi District
+627852",IT,INFORMATION TECHNOLOGY,,137,,,,,
+4994,"J P College of Engineering  College Road Ayakudy  Tenkasi Taluk  Tenkasi District
+627852",ME,MECHANICAL ENGINEERING,124,,,,,,
+4995,"P.S.R.R College of Engineering
+Appayanaickenpatti  Sevalpatti Virudhunagar District 626140",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,141.5,,,,,,
+4996,"Sri Vidya College of Engineering and Technology  Sivakasi Main Road  P Kumaralinapuram  Virudhunagar District
+626005",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,140.5,,,,,,
+4999,"Annai Vailankanni College of Engineering Pothaiyadi Salai  Pottalkulam Azhagappapuram  Kanyakumari District
+629401",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,125,,,,,
+4999,"Annai Vailankanni College of Engineering Pothaiyadi Salai  Pottalkulam Azhagappapuram  Kanyakumari District
+629401",ME,MECHANICAL ENGINEERING,152,,,,,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",,128,,,,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,CF,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),,,,143.5,,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,CH,CHEMICAL  ENGINEERING,124.5,,,,,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,CS,COMPUTER SCIENCE AND ENGINEERING,141.5,,,,,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,155.5,,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,151,,,,145.5,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,IT,INFORMATION TECHNOLOGY,159.5,,,138,,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,ME,MECHANICAL ENGINEERING,,142,,,,,
+5,Annamalai University Faculty of Engineering and Technology Annamalai nagar Cuddalore,MM,MECHANICAL ENGINEERING (MANUFACTURING),112.5,,,,,,
+5008,"Thiagarajar College of Engineering
+(Autonomous) Tirupparankundram  Madurai District 625015",CE,CIVIL  ENGINEERING,,156.5,,,,,
+5008,"Thiagarajar College of Engineering
+(Autonomous) Tirupparankundram  Madurai District 625015",CM,COMPUTER SCIENCE AND ENGINEERING (SS),,,,,148,,
+5008,"Thiagarajar College of Engineering
+(Autonomous) Tirupparankundram  Madurai District 625015",CS,COMPUTER SCIENCE AND ENGINEERING,175,,,,,,
+5008,"Thiagarajar College of Engineering (Autonomous) Tirupparankundram  Madurai
+District 625015",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",166.5,,,,,,
+5008,"Thiagarajar College of Engineering (Autonomous) Tirupparankundram  Madurai
+District 625015",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,165,,,
+5008,"Thiagarajar College of Engineering (Autonomous) Tirupparankundram  Madurai
+District 625015",EM,"ELECTRONICS AND COMMUNICATION
+ENGINEERING (SS)",,,,149.5,,,
+5008,"Thiagarajar College of Engineering
+(Autonomous) Tirupparankundram  Madurai District 625015",EY,ELECTRICAL AND ELECTRONICS ENGINEERING (SS),,163,,,,,
+5008,"Thiagarajar College of Engineering (Autonomous) Tirupparankundram  Madurai
+District 625015",IM,INFORMATION TECHNOLOGY (SS),163,,,157,,,
+5008,"Thiagarajar College of Engineering (Autonomous) Tirupparankundram  Madurai
+District 625015",ME,MECHANICAL ENGINEERING,,,,,145.5,,
+5008,"Thiagarajar College of Engineering (Autonomous) Tirupparankundram  Madurai
+District 625015",MF,MECHANICAL ENGINEERING (SS),159.5,,,,,,
+5008,"Thiagarajar College of Engineering
+(Autonomous) Tirupparankundram  Madurai District 625015",MG,MECHATRONICS (SS),,154,,,,,
+5009,"Government College of Engineering
+Melachokkanathapuram  Bodinayakkanur Theni District 625582",CE,CIVIL  ENGINEERING,,,,143.5,,,
+5009,"Government College of Engineering
+Melachokkanathapuram  Bodinayakkanur Theni District 625582",CS,COMPUTER SCIENCE AND ENGINEERING,146,,,,,,
+5009,"Government College of Engineering Melachokkanathapuram  Bodinayakkanur
+Theni District 625582",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,152.5,,,,,
+5009,"Government College of Engineering Melachokkanathapuram  Bodinayakkanur
+Theni District 625582",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,148,137,,,,,
+5009,"Government College of Engineering Melachokkanathapuram  Bodinayakkanur
+Theni District 625582",ME,MECHANICAL ENGINEERING,,,,,153,,
+5010,"Anna University Regional Campus - Madurai
+Kanyakumari National Highway Keelakuilkudi  Madurai District 625019",CS,COMPUTER SCIENCE AND ENGINEERING,161,,,,,,
+5010,"Anna University Regional Campus - Madurai Kanyakumari National Highway
+Keelakuilkudi  Madurai District 625019",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,,,150.5,,,
+5010,"Anna University Regional Campus - Madurai Kanyakumari National Highway
+Keelakuilkudi  Madurai District 625019",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,157.5,134.5,,,,,
+5010,"Anna University Regional Campus - Madurai Kanyakumari National Highway
+Keelakuilkudi  Madurai District 625019",ME,MECHANICAL ENGINEERING,,,,,134.5,,
+5012,Central Electrochemical Research Institute CECRI)  Karaikudi  Sivagangai District 630006,CC,CHEMICAL AND ELECTRO CHEMICAL  ENGINEERING (SS),,,,135,,,
+5017,"University College of Engineering
+Ramanathapuram  Pullangudi Ramanathapuram District 623513",CS,COMPUTER SCIENCE AND ENGINEERING,169.4,,,,,,
+5022,"University College of Engineering  Dindigul
+Mangarai Pirivu  Reddiyarchathiram  Dindigul District 624622",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,132,,,
+5530,SSM Institute of Engineering and Technology Kuttathupatti Village  Sindalaigundu Post Dindigul District 624002,CS,COMPUTER SCIENCE AND ENGINEERING,142.5,,,,,,
+5530,SSM Institute of Engineering and Technology Kuttathupatti Village  Sindalaigundu Post Dindigul District 624002,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,,,,132.5,,,
+5536,"Mangayarkarasi College of Engineering  First Street  Mangayarkarasi Nagar  Paravai
+Madurai District 625402",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,132,,,,,
+5536,"Mangayarkarasi College of Engineering  First Street  Mangayarkarasi Nagar  Paravai
+Madurai District 625402",ME,MECHANICAL ENGINEERING,143.5,,,,,,
+5703,"Christian College of Engineering and Technology  Oddanchatram  Dindigul District
+624619",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,147,,,,,
+5703,"Christian College of Engineering and
+Technology  Oddanchatram  Dindigul District 624619",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",140,,,,,,
+5703,"Christian College of Engineering and Technology  Oddanchatram  Dindigul District
+624619",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,130.5,,,,,
+5832,"N P R College of Engineering and Technology
+(Autonomous) Natham  Dindigul District 624401",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,,,124.5,,,
+5832,"N P R College of Engineering and Technology
+(Autonomous) Natham  Dindigul District 624401",ME,MECHANICAL ENGINEERING,126.5,,,,,,
+5862,"R V S Educational Trust's Groups of Institutions, (Integrated Campus)  N Paraipatti Post  Vedasandur Taluk  Dindigul
+District 624005",AG,AGRICULTURAL ENGINEERING,,123,,,,,
+5862,"R V S Educational Trust's Groups of Institutions, (Integrated Campus)  N Paraipatti Post  Vedasandur Taluk  Dindigul
+District 624005",BM,BIO MEDICAL ENGINEERING,130.5,,,,,,
+5862,"R V S Educational Trust's Groups of Institutions, (Integrated Campus)  N Paraipatti Post  Vedasandur Taluk  Dindigul
+District 624005",CB,COMPUTER SCIENCE AND BUSSINESS SYSTEM,,,,,142,,
+5862,"R V S Educational Trust's Groups of Institutions, (Integrated Campus)  N Paraipatti Post  Vedasandur Taluk  Dindigul
+District 624005",SC,Computer Science and Engineering (Cyber Security),,,,111,,,
+5901,Alagappa Chettair Government College of Engineering and Technology (Autonomous) Karaikudi  Sivagangai District 630004,CE,CIVIL  ENGINEERING,,151,,,,,
+5901,Alagappa Chettair Government College of Engineering and Technology (Autonomous) Karaikudi  Sivagangai District 630004,CS,COMPUTER SCIENCE AND ENGINEERING,,163,,,,,
+5901,Alagappa Chettair Government College of Engineering and Technology (Autonomous) Karaikudi  Sivagangai District 630004,EE,ELECTRICAL AND ELECTRONICS ENGINEERING,164.5,,,,,,
+5901,Alagappa Chettair Government College of Engineering and Technology (Autonomous) Karaikudi  Sivagangai District 630004,ME,MECHANICAL ENGINEERING,,,,,159.5,,
+5902,"Bharath Niketan Engineering College
+Thimmarasanaickanoor  Aundipatti  Theni District 625536",CS,COMPUTER SCIENCE AND ENGINEERING,,125,,,,,
+5902,"Bharath Niketan Engineering College
+Thimmarasanaickanoor  Aundipatti  Theni District 625536",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,101,,,,,,
+5902,"Bharath Niketan Engineering College
+Thimmarasanaickanoor  Aundipatti  Theni District 625536",ME,MECHANICAL ENGINEERING,169,,,,,,
+5904,"K L N College of Engineering (Autonomous)
+Pottapalayam  Sivagangai District 630611",IT,INFORMATION TECHNOLOGY,161.5,,,,,,
+5904,"K L N College of Engineering (Autonomous)
+Pottapalayam  Sivagangai District 630611",ME,MECHANICAL ENGINEERING,,144,,,,,
+5907,Mohamed Sathak Engineering College Kilakarai  Ramanathapuram District 623806,AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,139.5,,,,,
+5907,Mohamed Sathak Engineering College Kilakarai  Ramanathapuram District 623806,ME,MECHANICAL ENGINEERING,,126,,,,,
+5910,"P S N A Colllege of Engineering and Technology (Autonomous),  Dindigul District
+624622",AD,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,136,,,,,,
+5910,"P S N A Colllege of Engineering and
+Technology (Autonomous),  Dindigul District 624622",CS,COMPUTER SCIENCE AND ENGINEERING,,143,,,,,
+5910,"P S N A Colllege of Engineering and
+Technology (Autonomous),  Dindigul District 624622",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",118,,,,,,
+5910,"P S N A Colllege of Engineering and
+Technology (Autonomous),  Dindigul District 624622",IT,INFORMATION TECHNOLOGY,,,,,130.5,,
+5910,"P S N A Colllege of Engineering and Technology (Autonomous),  Dindigul District
+624622",ME,MECHANICAL ENGINEERING,109,,,,,,
+5910,"P S N A Colllege of Engineering and Technology (Autonomous),  Dindigul District
+624622",SC,Computer Science and Engineering (Cyber Security),146,,,,,,
+5912,Pandian Saraswathi Yadav Engineering College  Thirumansolai Post  Sivagangai District 630 561,AM,"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE
+LEARNING)",,131.5,,,,,
+5912,"Pandian Saraswathi Yadav Engineering College  Thirumansolai Post  Sivagangai
+District 630 561",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",157,,,,,,
+5912,"Pandian Saraswathi Yadav Engineering
+College  Thirumansolai Post  Sivagangai District 630 561",SC,Computer Science and Engineering (Cyber Security),,125.5,,,,,
+5913,"R V S College of Engineering  N Paraipatti
+Post  Dindigul District 624005",CS,"COMPUTER SCIENCE AND
+ENGINEERING",,,,139,,,
+5913,"R V S College of Engineering  N Paraipatti
+Post  Dindigul District 624005",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",142.5,,,,,,
+5913,"R V S College of Engineering  N Paraipatti
+Post  Dindigul District 624005",IT,INFORMATION TECHNOLOGY,,145,,,,,
+5913,"R V S College of Engineering  N Paraipatti
+Post  Dindigul District 624005",ME,MECHANICAL ENGINEERING,,129.5,,,,,
+5914,Solamalai College of Engineering Veerapanjan  Madurai District 625020,EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",133.5,,,,,,
+5915,"SACS-M A V M M Engineering College
+Kidaripatty Post  Madurai District 625301",EE,"ELECTRICAL AND ELECTRONICS
+ENGINEERING",,137,,,,,
+5919,"St. Michael College of Engineering and Technology  Kalayarkoil  Sivagangai District
+630551",BM,BIO MEDICAL ENGINEERING,129,,,,,,
+5919,"St. Michael College of Engineering and Technology  Kalayarkoil  Sivagangai District
+630551",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,130,,,
+5930,"SBM College of Engineering and Technology Thamaraipady  T N Paraipatti Pirivu  Dindigul
+District 624005",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",,121,,,,,
+5930,"SBM College of Engineering and Technology Thamaraipady  T N Paraipatti Pirivu  Dindigul
+District 624005",ME,MECHANICAL ENGINEERING,130,,,,,,
+5935,"Fatima Michael College of Engineering and Technology  Sengottai Village  Sivagangai
+Main Road  Madurai District 625020",ME,MECHANICAL ENGINEERING,137,,,,,,
+5942,Ultra College of Engineering and  Technology Kodikulam  1 Bit Village  Madurai-Chennai Highway  Madurai District 625104,EC,ELECTRONICS AND COMMUNICATION ENGINEERING,131,,,,,,
+5986,"Velammal College of Engineering and
+Technology (Autonomous) Madurai District 625009",CE,CIVIL  ENGINEERING,,138,,,,,
+5986,"Velammal College of Engineering and Technology (Autonomous) Madurai District
+625009",IT,INFORMATION TECHNOLOGY,139.5,,,,,,
+5988,"Theni Kammavar Sangam College of
+Technology  Theni Main Road  Koduvillarpatti Post  Theni District 625534",CS,COMPUTER SCIENCE AND ENGINEERING,,127,,,,,
+5988,"Theni Kammavar Sangam College of
+Technology  Theni Main Road  Koduvillarpatti Post  Theni District 625534",EC,"ELECTRONICS AND
+COMMUNICATION ENGINEERING",,119.5,,,,,
+5988,"Theni Kammavar Sangam College of
+Technology  Theni Main Road  Koduvillarpatti Post  Theni District 625534",EE,ELECTRICAL AND ELECTRONICS ENGINEERING,135,,,,,,
+5988,"Theni Kammavar Sangam College of Technology  Theni Main Road  Koduvillarpatti
+Post  Theni District 625534",ME,MECHANICAL ENGINEERING,159,,,,,,
+5990,"Latha Mathavan Engineering College Kidaripatti Post  Alagarkoil (Via)  Melur Taluk
+Madurai District 625301",EC,"ELECTRONICS AND COMMUNICATION
+ENGINEERING",145.5,,,,,,
+5990,"Latha Mathavan Engineering College Kidaripatti Post  Alagarkoil (Via)  Melur Taluk
+Madurai District 625301",ME,MECHANICAL ENGINEERING,,129,,,,,

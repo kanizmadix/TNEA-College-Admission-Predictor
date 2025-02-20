@@ -1,0 +1,126 @@
+College Name,Branch Name,Branch code,OC,BC,BCM,MBC_DNC,SC,SCA,ST
+Anna University CEG Campus,Computer Science and Engineering,CS,190.72,184.95,177.77,176.17,170.74,167.89,161.85
+Anna University CEG Campus,Information Technology,IT,189.13,180.65,178.55,173.58,163.75,160.59,156.84
+Anna University CEG Campus,Electronics and Communication Engineering,ECE,166.47,164.08,157.53,152.55,145.57,146.12,137.33
+Anna University CEG Campus,Electrical and Electronics Engineering,EEE,178.29,175.75,171.01,166.53,162.19,155.34,150.42
+Anna University CEG Campus,Mechanical Engineering,MECH,165.94,161.67,160.4,155.88,146.37,146.73,137.89
+Anna University MIT Campus,Computer Science and Engineering,CS,182.32,175.02,175.08,168.61,166.84,159.84,153.06
+Anna University MIT Campus,Information Technology,IT,173.18,169.77,160.77,159.82,151.25,149.27,145.33
+Anna University MIT Campus,Electronics and Communication Engineering,ECE,174.44,169.71,165.82,157.96,151.8,146.65,145.52
+Anna University MIT Campus,Electrical and Electronics Engineering,EEE,175.01,172.06,163.28,159.07,155.73,151.04,145.77
+Anna University MIT Campus,Mechanical Engineering,MECH,190.02,183.85,177.23,172.47,166.56,154.26,155.81
+Anna University ACT Campus,Computer Science and Engineering,CS,181.21,179.54,174.55,170.74,163.2,159.95,155.34
+Anna University ACT Campus,Information Technology,IT,179.97,174.14,167.48,168.74,162.04,157.28,153.67
+Anna University ACT Campus,Electronics and Communication Engineering,ECE,171.89,169.87,159.88,159.17,149.18,154.22,141.27
+Anna University ACT Campus,Electrical and Electronics Engineering,EEE,183.77,172.96,173.68,167.53,160.35,157.85,154.86
+Anna University ACT Campus,Mechanical Engineering,MECH,168.64,164.45,159.14,153.69,148.45,148.04,138.03
+Government College of Engineering - Coimbatore,Computer Science and Engineering,CS,178.13,172.09,168.82,168.07,158.31,155.9,152.05
+Government College of Engineering - Coimbatore,Information Technology,IT,182.04,175.13,170.66,166.3,157.97,152.12,150.91
+Government College of Engineering - Coimbatore,Electronics and Communication Engineering,ECE,173.3,171.02,157.76,157.13,153.57,150.09,140.63
+Government College of Engineering - Coimbatore,Electrical and Electronics Engineering,EEE,189.73,184.26,180.19,173.44,169.65,163.76,160.05
+Government College of Engineering - Coimbatore,Mechanical Engineering,MECH,175.22,171.93,162.27,162.35,156.34,148.79,148.45
+Government College of Engineering - Salem,Computer Science and Engineering,CS,163.62,160.56,151.42,148.57,141.47,138.52,133.01
+Government College of Engineering - Salem,Information Technology,IT,167.5,160.82,153.56,149.65,145.4,138.53,134.25
+Government College of Engineering - Salem,Electronics and Communication Engineering,ECE,177.76,176.32,168.95,165.65,157.84,155.58,147.8
+Government College of Engineering - Salem,Electrical and Electronics Engineering,EEE,188.8,180.96,178.87,174.11,167.97,166.82,154.38
+Government College of Engineering - Salem,Mechanical Engineering,MECH,159.66,156.53,149.52,143.57,139.09,133.92,130.56
+Anna University CEG Campus,Computer Science and Engineering,CS,173.93,168.68,159.44,159.07,152.28,149.34,141.63
+Anna University CEG Campus,Information Technology,IT,178.27,173.38,168.96,161.5,161.35,157.36,150.29
+Anna University CEG Campus,Electronics and Communication Engineering,ECE,194.38,184.38,182.49,174.89,169.87,166.92,159.78
+Anna University CEG Campus,Electrical and Electronics Engineering,EEE,153.64,150.54,144.69,135.89,132.02,128.32,124.87
+Anna University CEG Campus,Mechanical Engineering,MECH,183.55,179.54,175.65,167.97,162.86,158.36,152.52
+Anna University MIT Campus,Computer Science and Engineering,CS,158.87,151.93,149.51,146.94,140.47,136.78,130.17
+Anna University MIT Campus,Information Technology,IT,175.38,168.92,166.07,159.29,161.66,154.11,144.38
+Anna University MIT Campus,Electronics and Communication Engineering,ECE,178.56,177.94,168.71,163.98,159.53,157.24,149.67
+Anna University MIT Campus,Electrical and Electronics Engineering,EEE,188.47,183.27,175.46,168.53,165.07,160.56,157.08
+Anna University MIT Campus,Mechanical Engineering,MECH,185.66,175.8,169.78,164.39,162.1,156.95,153.27
+Anna University ACT Campus,Computer Science and Engineering,CS,178.17,171.43,166.83,162.55,157.02,155.63,148.4
+Anna University ACT Campus,Information Technology,IT,181.86,175.97,171.02,164.24,162.55,162.97,150.09
+Anna University ACT Campus,Electronics and Communication Engineering,ECE,190.85,182.64,179.69,171.16,168.91,164.3,158.47
+Anna University ACT Campus,Electrical and Electronics Engineering,EEE,165.9,167.57,162.86,155.67,149.71,145.54,137.66
+Anna University ACT Campus,Mechanical Engineering,MECH,167.65,162.9,159.92,152.42,147.79,142.13,137.94
+Government College of Engineering - Coimbatore,Computer Science and Engineering,CS,180.22,173.13,167.56,166.32,158.32,154.8,144.81
+Government College of Engineering - Coimbatore,Information Technology,IT,177.02,168.97,169.64,163.62,157.0,149.05,148.86
+Government College of Engineering - Coimbatore,Electronics and Communication Engineering,ECE,170.28,166.92,162.47,155.24,151.67,150.95,139.91
+Government College of Engineering - Coimbatore,Electrical and Electronics Engineering,EEE,190.48,181.42,178.33,177.13,169.28,164.34,160.09
+Government College of Engineering - Coimbatore,Mechanical Engineering,MECH,168.84,164.81,156.96,154.9,149.54,145.39,140.36
+Government College of Engineering - Salem,Computer Science and Engineering,CS,195.97,187.28,183.44,180.12,177.81,172.42,162.5
+Government College of Engineering - Salem,Information Technology,IT,175.82,172.27,169.54,158.62,155.51,149.13,146.53
+Government College of Engineering - Salem,Electronics and Communication Engineering,ECE,171.03,166.89,167.03,159.61,153.84,147.94,144.02
+Government College of Engineering - Salem,Electrical and Electronics Engineering,EEE,160.23,155.72,149.77,140.87,137.77,133.78,131.86
+Government College of Engineering - Salem,Mechanical Engineering,MECH,184.43,179.65,172.39,168.97,160.25,154.06,150.21
+Anna University CEG Campus,Computer Science and Engineering,CS,153.6,148.17,145.9,138.57,135.61,130.89,129.5
+Anna University CEG Campus,Information Technology,IT,180.6,174.57,173.96,163.66,160.45,154.06,152.2
+Anna University CEG Campus,Electronics and Communication Engineering,ECE,171.99,172.85,162.6,157.93,153.21,147.66,143.97
+Anna University CEG Campus,Electrical and Electronics Engineering,EEE,161.08,153.29,153.09,147.31,141.47,134.76,132.24
+Anna University CEG Campus,Mechanical Engineering,MECH,177.0,167.89,165.81,158.05,152.93,146.19,145.65
+Anna University MIT Campus,Computer Science and Engineering,CS,186.85,183.65,178.41,175.02,165.71,160.56,160.17
+Anna University MIT Campus,Information Technology,IT,182.39,174.31,172.32,166.9,161.14,156.79,146.64
+Anna University MIT Campus,Electronics and Communication Engineering,ECE,160.35,156.17,150.31,143.25,139.92,131.38,123.3
+Anna University MIT Campus,Electrical and Electronics Engineering,EEE,165.33,158.93,152.63,148.43,144.3,139.09,134.24
+Anna University MIT Campus,Mechanical Engineering,MECH,166.93,161.09,159.37,151.8,149.55,143.26,141.33
+Anna University ACT Campus,Computer Science and Engineering,CS,172.71,169.98,166.33,157.28,153.04,144.64,140.82
+Anna University ACT Campus,Information Technology,IT,162.85,157.29,155.05,149.31,142.91,138.0,133.21
+Anna University ACT Campus,Electronics and Communication Engineering,ECE,179.0,176.94,174.32,167.06,161.57,152.55,153.08
+Anna University ACT Campus,Electrical and Electronics Engineering,EEE,174.8,173.05,165.76,162.23,157.56,149.29,147.25
+Anna University ACT Campus,Mechanical Engineering,MECH,168.47,166.51,159.7,160.79,150.51,147.26,143.66
+Government College of Engineering - Coimbatore,Computer Science and Engineering,CS,196.47,188.11,186.03,177.98,175.2,170.49,162.26
+Government College of Engineering - Coimbatore,Information Technology,IT,174.55,170.88,163.18,160.48,153.74,150.33,147.85
+Government College of Engineering - Coimbatore,Electronics and Communication Engineering,ECE,180.89,176.84,170.38,166.52,160.99,156.16,149.64
+Government College of Engineering - Coimbatore,Electrical and Electronics Engineering,EEE,174.66,170.55,161.21,156.13,155.39,149.81,144.22
+Government College of Engineering - Coimbatore,Mechanical Engineering,MECH,170.66,169.38,163.54,156.79,151.07,147.26,144.48
+Government College of Engineering - Salem,Computer Science and Engineering,CS,176.82,171.89,167.36,160.31,159.06,152.44,147.0
+Government College of Engineering - Salem,Information Technology,IT,179.1,170.78,169.47,162.6,159.68,151.17,150.07
+Government College of Engineering - Salem,Electronics and Communication Engineering,ECE,195.29,187.86,184.0,177.97,174.38,170.78,161.85
+Government College of Engineering - Salem,Electrical and Electronics Engineering,EEE,181.59,181.01,173.11,167.99,162.81,159.5,158.02
+Government College of Engineering - Salem,Mechanical Engineering,MECH,179.91,177.25,174.0,167.66,162.14,154.09,153.46
+Anna University CEG Campus,Computer Science and Engineering,CS,194.73,189.45,182.03,178.43,172.53,166.87,162.09
+Anna University CEG Campus,Information Technology,IT,167.46,168.58,159.15,151.4,149.46,143.75,138.58
+Anna University CEG Campus,Electronics and Communication Engineering,ECE,181.0,176.78,167.93,161.86,157.9,149.85,146.27
+Anna University CEG Campus,Electrical and Electronics Engineering,EEE,176.89,171.34,169.86,159.62,159.93,153.98,147.7
+Anna University CEG Campus,Mechanical Engineering,MECH,175.94,176.11,168.69,167.3,160.95,152.73,147.19
+Anna University MIT Campus,Computer Science and Engineering,CS,172.21,168.55,162.78,155.4,154.55,148.7,145.24
+Anna University MIT Campus,Information Technology,IT,168.87,168.27,160.76,154.64,147.89,144.06,135.95
+Anna University MIT Campus,Electronics and Communication Engineering,ECE,173.87,165.83,158.48,155.07,152.36,144.6,143.62
+Anna University MIT Campus,Electrical and Electronics Engineering,EEE,176.52,171.73,166.9,160.25,158.75,146.96,151.64
+Anna University MIT Campus,Mechanical Engineering,MECH,194.37,189.59,184.3,179.39,174.49,166.56,164.84
+Anna University ACT Campus,Computer Science and Engineering,CS,184.32,181.87,173.7,170.57,163.17,160.49,153.96
+Anna University ACT Campus,Information Technology,IT,164.88,159.61,155.3,147.24,142.94,140.79,135.25
+Anna University ACT Campus,Electronics and Communication Engineering,ECE,178.81,171.99,168.81,161.94,160.54,157.02,145.93
+Anna University ACT Campus,Electrical and Electronics Engineering,EEE,175.18,169.49,164.75,162.75,153.84,152.01,148.12
+Anna University ACT Campus,Mechanical Engineering,MECH,170.42,168.52,166.68,160.08,156.54,153.05,147.46
+Government College of Engineering - Coimbatore,Computer Science and Engineering,CS,186.57,181.0,178.46,170.98,168.61,163.09,155.64
+Government College of Engineering - Coimbatore,Information Technology,IT,172.11,164.3,158.49,154.74,145.73,143.66,137.47
+Government College of Engineering - Coimbatore,Electronics and Communication Engineering,ECE,186.6,177.88,171.22,168.46,160.28,160.66,155.06
+Government College of Engineering - Coimbatore,Electrical and Electronics Engineering,EEE,190.82,186.97,183.89,182.27,175.45,169.0,164.54
+Government College of Engineering - Coimbatore,Mechanical Engineering,MECH,176.76,170.68,168.57,159.28,155.52,151.63,142.28
+Government College of Engineering - Salem,Computer Science and Engineering,CS,184.75,183.33,178.95,174.75,171.08,162.4,158.94
+Government College of Engineering - Salem,Information Technology,IT,179.56,175.89,164.57,163.96,161.02,154.24,148.29
+Government College of Engineering - Salem,Electronics and Communication Engineering,ECE,179.45,173.58,170.63,168.53,161.22,154.22,151.01
+Government College of Engineering - Salem,Electrical and Electronics Engineering,EEE,170.83,167.84,165.88,159.78,152.42,145.74,142.22
+Government College of Engineering - Salem,Mechanical Engineering,MECH,179.9,177.17,169.69,164.16,161.94,153.91,149.19
+Anna University CEG Campus,Computer Science and Engineering,CS,165.66,164.26,154.83,152.02,142.98,143.21,134.56
+Anna University CEG Campus,Information Technology,IT,168.15,162.6,164.66,151.73,150.2,143.24,137.4
+Anna University CEG Campus,Electronics and Communication Engineering,ECE,167.15,164.76,152.8,153.36,145.27,139.0,133.27
+Anna University CEG Campus,Electrical and Electronics Engineering,EEE,172.99,170.03,167.33,159.28,157.17,149.51,146.27
+Anna University CEG Campus,Mechanical Engineering,MECH,165.94,161.24,156.73,154.57,151.35,142.86,137.11
+Anna University MIT Campus,Computer Science and Engineering,CS,181.23,177.28,170.03,168.22,159.14,157.21,154.53
+Anna University MIT Campus,Information Technology,IT,181.2,179.85,174.78,167.29,163.57,159.27,150.37
+Anna University MIT Campus,Electronics and Communication Engineering,ECE,170.42,166.43,162.67,156.65,156.44,145.03,139.58
+Anna University MIT Campus,Electrical and Electronics Engineering,EEE,174.73,167.92,167.86,162.09,154.5,150.05,144.34
+Anna University MIT Campus,Mechanical Engineering,MECH,172.18,170.97,161.85,163.0,155.7,152.31,141.49
+Anna University ACT Campus,Computer Science and Engineering,CS,195.65,190.34,187.82,185.9,175.81,172.78,171.21
+Anna University ACT Campus,Information Technology,IT,195.02,193.14,182.07,177.59,172.86,166.57,163.53
+Anna University ACT Campus,Electronics and Communication Engineering,ECE,173.75,170.89,166.7,159.96,157.4,150.97,146.98
+Anna University ACT Campus,Electrical and Electronics Engineering,EEE,153.62,141.26,145.91,138.33,132.11,131.8,119.64
+Anna University ACT Campus,Mechanical Engineering,MECH,184.06,180.45,176.36,169.97,165.67,157.51,161.75
+Government College of Engineering - Coimbatore,Computer Science and Engineering,CS,162.76,157.49,150.96,148.99,141.8,132.43,128.48
+Government College of Engineering - Coimbatore,Information Technology,IT,193.79,188.38,184.82,175.96,171.45,167.58,165.6
+Government College of Engineering - Coimbatore,Electronics and Communication Engineering,ECE,159.62,149.68,146.51,140.84,135.47,128.02,124.74
+Government College of Engineering - Coimbatore,Electrical and Electronics Engineering,EEE,175.78,168.91,164.32,162.09,155.01,150.62,146.07
+Government College of Engineering - Coimbatore,Mechanical Engineering,MECH,148.11,145.11,139.75,136.19,129.23,126.97,118.54
+Government College of Engineering - Salem,Computer Science and Engineering,CS,172.39,166.97,162.9,157.55,151.86,150.42,141.38
+Government College of Engineering - Salem,Information Technology,IT,179.07,171.32,165.67,159.32,155.95,152.0,145.72
+Government College of Engineering - Salem,Electronics and Communication Engineering,ECE,169.41,166.6,162.81,156.26,153.72,149.05,141.32
+Government College of Engineering - Salem,Electrical and Electronics Engineering,EEE,200.0,200.0,190.69,187.21,183.74,179.53,171.42
+Government College of Engineering - Salem,Mechanical Engineering,MECH,155.97,149.75,142.16,135.15,128.43,126.88,119.22
